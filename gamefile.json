@@ -1,6 +1,6 @@
 {
   "name": "Elemental Creatures",
-  "menuBackgroundImage": "https://elementalcreaturestcg.com/images/cards/banner.webp",
+  "menuBackgroundImage": "https://elementalcreaturestcg.com/images/cards/menu_background.webp",
   "defaultRessources": {
     "backgrounds": [
       "https://elementalcreaturestcg.com/images/cards/menu_background.webp"
@@ -42,16 +42,17 @@
       "newTurn": { 
         "drawOnStart": false,
         "sharedTurn": false,
-        "drawPerTurn": 1 
+        "drawPerTurn": 1
       },
       "countersStartingValues": [0],
       "sections": {
         "layout": {
           "direction": "column",
-          "content": [{ "section": "Board" }]
+          "content": [{ "section": "Board" }, {"section":"Discard"}]
         },
         "sectionsDict": {
-          "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
+          "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" },
+          "Discard": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
         }
       }
     }
