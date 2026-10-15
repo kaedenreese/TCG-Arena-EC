@@ -1,0 +1,63 @@
+{
+  "name": "Elemental Creatures",
+  "menuBackgroundImage": "https://elementalcreaturestcg.com/images/cards/banner.webp",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://elementalcreaturestcg.com/images/cards/menu_background.webp"
+    ]
+  },
+  "deckBuilding": {
+    "mainFilters": ["elements", "species", "power", "level"],
+    "formats": [
+      { "title": "Constructed", "gameplay": "Constructed" }
+    ]
+  },
+  "deckRulesets": {
+    "Constructed": {
+      "general": { "min": 40, "maxPerCard": 3 }
+    }
+  },
+  "gameplay": {
+    "Constructed": {
+      "mulligan": { 
+        "triggeredByButton": false,
+        "startingHandSize": 7,
+        "mulliganCount": {
+          "min": 0,
+          "max": 3
+        },
+        "mulliganCycle": {
+          "info": "You can select as many cards in your hand as you like to put back in your deck to redraw that same amount of cards. You can do this up to 3 times.",
+          "steps": [
+            "toBottom",
+            "draw",
+            "shuffle"
+          ],
+          "selectionRange": {
+            "min": 1,
+            "max": 7
+          }
+        }
+      },
+      "newTurn": { 
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "drawPerTurn": 1 
+      },
+      "countersStartingValues": [0],
+      "sections": {
+        "layout": {
+          "direction": "column",
+          "content": [{ "section": "Board" }]
+        },
+        "sectionsDict": {
+          "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
+        }
+      }
+    }
+  },
+  "cards": {
+    "dataUrl": "https://elementalcreaturestcg.com/cards.json",
+    "cardBack": "https://elementalcreaturestcg.com/images/cards/back.webp"
+  }
+}

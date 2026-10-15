@@ -1,0 +1,3601 @@
+{
+"2.001": {
+                    "id": "2.001",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Montigo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/001.png"
+                        }
+                    },
+                    "name": "Montigo",
+                    "species": "Repticel",
+                    "elements": ["Omniment"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.002": {
+                    "id": "2.002",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Brukey" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/002.png"
+                        }
+                    },
+                    "name": "Brukey",
+                    "species": "Brutaggo",
+                    "elements": ["Omniment"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.003": {
+                    "id": "2.003",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Felixir" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/003.png"
+                        }
+                    },
+                    "name": "Felixir",
+                    "species": "Leonaught",
+                    "elements": ["Omniment"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.004": {
+                    "id": "2.004",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Daereap" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/004.png"
+                        }
+                    },
+                    "name": "Daereap",
+                    "species": "Daemayem",
+                    "elements": ["Omniment"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.005": {
+                    "id": "2.005",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Naryu" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/005.png"
+                        }
+                    },
+                    "name": "Naryu",
+                    "species": "Mernorca",
+                    "elements": ["Omniment"],
+                    "power": 3,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.006": {
+                    "id": "2.006",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Venwurm" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/006.png"
+                        }
+                    },
+                    "name": "Venwurm",
+                    "species": "Serpenlisk",
+                    "elements": ["Omniment"],
+                    "power": 3,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.007": {
+                    "id": "2.007",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Olivkron" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/007.png"
+                        }
+                    },
+                    "name": "Olivkron",
+                    "species": "Xenokron",
+                    "elements": ["Omniment"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.008": {
+                    "id": "2.008",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Nimbken" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/008.png"
+                        }
+                    },
+                    "name": "Nimbken",
+                    "species": "Nesavian",
+                    "elements": ["Omniment"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.009": {
+                    "id": "2.009",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Omnigon" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/009.png"
+                        }
+                    },
+                    "name": "Omnigon",
+                    "species": "Kydrakin",
+                    "elements": ["Omniment"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.010": {
+                    "id": "2.010",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Chowler" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/010.png"
+                        }
+                    },
+                    "name": "Chowler",
+                    "species": "Dominaught",
+                    "elements": ["Omniment"],
+                    "power": 3,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.011": {
+                    "id": "2.011",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Zimble" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/011.png"
+                        }
+                    },
+                    "name": "Zimble",
+                    "species": "Verminkor",
+                    "elements": ["Omniment"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.012": {
+                    "id": "2.012",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Grizler" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/012.png"
+                        }
+                    },
+                    "name": "Grizler",
+                    "species": "Ursapex",
+                    "elements": ["Omniment"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.013": {
+                    "id": "2.013",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Calfarak" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/013.png"
+                        }
+                    },
+                    "name": "Calfarak",
+                    "species": "Taurosorn",
+                    "elements": ["Omniment"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.014": {
+                    "id": "2.014",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Mammo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/014.png"
+                        }
+                    },
+                    "name": "Mammo",
+                    "species": "Felgadon",
+                    "elements": ["Omniment"],
+                    "power": 3,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.015": {
+                    "id": "2.015",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Startle" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/015.png"
+                        }
+                    },
+                    "name": "Startle",
+                    "species": "Tortanite",
+                    "elements": ["Omniment"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.016": {
+                    "id": "2.016",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Fintigo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/016.png"
+                        }
+                    },
+                    "name": "Fintigo",
+                    "species": "Repticel",
+                    "elements": ["Water"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.017": {
+                    "id": "2.017",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Leafkey" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/017.png"
+                        }
+                    },
+                    "name": "Leafkey",
+                    "species": "Brutaggo",
+                    "elements": ["Nature"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.018": {
+                    "id": "2.018",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Flamefur" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/018.png"
+                        }
+                    },
+                    "name": "Flamefur",
+                    "species": "Leonaught",
+                    "elements": ["Fire"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.019": {
+                    "id": "2.019",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Ghoulyem" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/019.png"
+                        }
+                    },
+                    "name": "Ghoulyem",
+                    "species": "Daemayem",
+                    "elements": ["Spirit"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.020": {
+                    "id": "2.020",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Mero" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/020.png"
+                        }
+                    },
+                    "name": "Mero",
+                    "species": "Mernorca",
+                    "elements": ["Spirit"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.021": {
+                    "id": "2.021",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Voltwurm" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/021.png"
+                        }
+                    },
+                    "name": "Voltwurm",
+                    "species": "Serpenlisk",
+                    "elements": ["Electric"],
+                    "power": 3,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.022": {
+                    "id": "2.022",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Lethalki" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/022.png"
+                        }
+                    },
+                    "name": "Lethalki",
+                    "species": "Xenokron",
+                    "elements": ["Dark"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.023": {
+                    "id": "2.023",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Qwin" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/023.png"
+                        }
+                    },
+                    "name": "Qwin",
+                    "species": "Nesavian",
+                    "elements": ["Air"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.024": {
+                    "id": "2.024",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Volkin" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/024.png"
+                        }
+                    },
+                    "name": "Volkin",
+                    "species": "Kydrakin",
+                    "elements": ["Fire"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.025": {
+                    "id": "2.025",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Guardog" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/025.png"
+                        }
+                    },
+                    "name": "Guardog",
+                    "species": "Dominaught",
+                    "elements": ["Dark"],
+                    "power": 3,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.026": {
+                    "id": "2.026",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Zimbolt" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/026.png"
+                        }
+                    },
+                    "name": "Zimbolt",
+                    "species": "Verminkor",
+                    "elements": ["Electric"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.027": {
+                    "id": "2.027",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Bair" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/027.png"
+                        }
+                    },
+                    "name": "Bair",
+                    "species": "Ursapex",
+                    "elements": ["Air"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.028": {
+                    "id": "2.028",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Rox" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/028.png"
+                        }
+                    },
+                    "name": "Rox",
+                    "species": "Taurosorn",
+                    "elements": ["Rock"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.029": {
+                    "id": "2.029",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Snowmo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/029.png"
+                        }
+                    },
+                    "name": "Snowmo",
+                    "species": "Felgadon",
+                    "elements": ["Ice"],
+                    "power": 3,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.030": {
+                    "id": "2.030",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Tortrap" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/030.png"
+                        }
+                    },
+                    "name": "Tortrap",
+                    "species": "Tortanite",
+                    "elements": ["Water"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.031": {
+                    "id": "2.031",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Hituko" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/031.png"
+                        }
+                    },
+                    "name": "Hituko",
+                    "species": "Repticel",
+                    "elements": ["Nature","Fire"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.032": {
+                    "id": "2.032",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Burrocker" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/032.png"
+                        }
+                    },
+                    "name": "Burrocker",
+                    "species": "Brutaggo",
+                    "elements": ["Rock","Ice"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.033": {
+                    "id": "2.033",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Meoshu" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/033.png"
+                        }
+                    },
+                    "name": "Meoshu",
+                    "species": "Leonaught",
+                    "elements": ["Dark","Nature"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.034": {
+                    "id": "2.034",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Eketsu" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/034.png"
+                        }
+                    },
+                    "name": "Eketsu",
+                    "species": "Daemayem",
+                    "elements": ["Fire","Electric"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.035": {
+                    "id": "2.035",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Walru" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/035.png"
+                        }
+                    },
+                    "name": "Walru",
+                    "species": "Mernorca",
+                    "elements": ["Electric","Water"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.036": {
+                    "id": "2.036",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Xishim" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/036.png"
+                        }
+                    },
+                    "name": "Xishim",
+                    "species": "Serpenlisk",
+                    "elements": ["Fire","Water"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.037": {
+                    "id": "2.037",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Lytbulb" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/037.png"
+                        }
+                    },
+                    "name": "Lytbulb",
+                    "species": "Xenokron",
+                    "elements": ["Nature","Electric"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.038": {
+                    "id": "2.038",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Scootenhoot" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/038.png"
+                        }
+                    },
+                    "name": "Scootenhoot",
+                    "species": "Nesavian",
+                    "elements": ["Spirit","Water"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.039": {
+                    "id": "2.039",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Frovern" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/039.png"
+                        }
+                    },
+                    "name": "Frovern",
+                    "species": "Kydrakin",
+                    "elements": ["Dark","Ice"],
+                    "power": 1,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.040": {
+                    "id": "2.040",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Aurwolf" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/040.png"
+                        }
+                    },
+                    "name": "Aurwolf",
+                    "species": "Dominaught",
+                    "elements": ["Spirit","Ice"],
+                    "power": 3,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.041": {
+                    "id": "2.041",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Xiomi" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/041.png"
+                        }
+                    },
+                    "name": "Xiomi",
+                    "species": "Verminkor",
+                    "elements": ["Dark","Air"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.042": {
+                    "id": "2.042",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Bearoot" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/042.png"
+                        }
+                    },
+                    "name": "Bearoot",
+                    "species": "Ursapex",
+                    "elements": ["Nature","Rock"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.043": {
+                    "id": "2.043",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Windullfin" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/043.png"
+                        }
+                    },
+                    "name": "Windullfin",
+                    "species": "Taurosorn",
+                    "elements": ["Water","Air"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.044": {
+                    "id": "2.044",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Lilydon" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/044.png"
+                        }
+                    },
+                    "name": "Lilydon",
+                    "species": "Felgadon",
+                    "elements": ["Nature","Water"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.045": {
+                    "id": "2.045",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Smolvolca" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/045.png"
+                        }
+                    },
+                    "name": "Smolvolca",
+                    "species": "Tortanite",
+                    "elements": ["Fire","Rock"],
+                    "power": 2,
+                    "level": 1,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.046": {
+                    "id": "2.046",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Natuko" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/046.png"
+                        }
+                    },
+                    "name": "Natuko",
+                    "species": "Repticel",
+                    "elements": ["Nature"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.047": {
+                    "id": "2.047",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Torcos" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/047.png"
+                        }
+                    },
+                    "name": "Torcos",
+                    "species": "Taurosorn",
+                    "elements": ["Fire"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.048": {
+                    "id": "2.048",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Gorock" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/048.png"
+                        }
+                    },
+                    "name": "Gorock",
+                    "species": "Brutaggo",
+                    "elements": ["Rock"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.049": {
+                    "id": "2.049",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Kairiel" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/049.png"
+                        }
+                    },
+                    "name": "Kairiel",
+                    "species": "Mernorca",
+                    "elements": ["Water"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.050": {
+                    "id": "2.050",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Cobreez" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/050.png"
+                        }
+                    },
+                    "name": "Cobreez",
+                    "species": "Serpenlisk",
+                    "elements": ["Air"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.051": {
+                    "id": "2.051",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Wattpod" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/051.png"
+                        }
+                    },
+                    "name": "Wattpod",
+                    "species": "Xenokron",
+                    "elements": ["Electric"],
+                    "power": 1,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.052": {
+                    "id": "2.052",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Rakoda" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/052.png"
+                        }
+                    },
+                    "name": "Rakoda",
+                    "species": "Leonaught",
+                    "elements": ["Ice"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.053": {
+                    "id": "2.053",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Rashee" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/053.png"
+                        }
+                    },
+                    "name": "Rashee",
+                    "species": "Verminkor",
+                    "elements": ["Spirit"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.054": {
+                    "id": "2.054",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Galawolf" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/054.png"
+                        }
+                    },
+                    "name": "Galawolf",
+                    "species": "Dominaught",
+                    "elements": ["Dark"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.055": {
+                    "id": "2.055",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Finnym" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/055.png"
+                        }
+                    },
+                    "name": "Finnym",
+                    "species": "Tortanite",
+                    "elements": ["Air"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.056": {
+                    "id": "2.056",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Mermoca" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/056.png"
+                        }
+                    },
+                    "name": "Mermoca",
+                    "species": "Mernorca",
+                    "elements": ["Rock","Dark"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.057": {
+                    "id": "2.057",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Pyrogon" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/057.png"
+                        }
+                    },
+                    "name": "Pyrogon",
+                    "species": "Kydrakin",
+                    "elements": ["Fire"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.058": {
+                    "id": "2.058",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Koritzu" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/058.png"
+                        }
+                    },
+                    "name": "Koritzu",
+                    "species": "Daemayem",
+                    "elements": ["Rock","Ice"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.059": {
+                    "id": "2.059",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Aquazard" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/059.png"
+                        }
+                    },
+                    "name": "Aquazard",
+                    "species": "Repticel",
+                    "elements": ["Water"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.060": {
+                    "id": "2.060",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Armortle" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/060.png"
+                        }
+                    },
+                    "name": "Armortle",
+                    "species": "Tortanite",
+                    "elements": ["Dark","Ice"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.061": {
+                    "id": "2.061",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Flamingro" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/061.png"
+                        }
+                    },
+                    "name": "Flamingro",
+                    "species": "Nesavian",
+                    "elements": ["Fire","Nature"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.062": {
+                    "id": "2.062",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Staratic" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/062.png"
+                        }
+                    },
+                    "name": "Staratic",
+                    "species": "Verminkor",
+                    "elements": ["Electric"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.063": {
+                    "id": "2.063",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Gurukey" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/063.png"
+                        }
+                    },
+                    "name": "Gurukey",
+                    "species": "Brutaggo",
+                    "elements": ["Spirit"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.064": {
+                    "id": "2.064",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Arrowkin" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/064.png"
+                        }
+                    },
+                    "name": "Arrowkin",
+                    "species": "Nesavian",
+                    "elements": ["Air"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.065": {
+                    "id": "2.065",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Xenoghos" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/065.png"
+                        }
+                    },
+                    "name": "Xenoghos",
+                    "species": "Xenokron",
+                    "elements": ["Water","Spirit"],
+                    "power": 0,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.066": {
+                    "id": "2.066",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Heckle" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/066.png"
+                        }
+                    },
+                    "name": "Heckle",
+                    "species": "Daemayem",
+                    "elements": ["Fire"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.067": {
+                    "id": "2.067",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Zahnyo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/067.png"
+                        }
+                    },
+                    "name": "Zahnyo",
+                    "species": "Mernorca",
+                    "elements": ["Spirit"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.068": {
+                    "id": "2.068",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Chowzoom" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/068.png"
+                        }
+                    },
+                    "name": "Chowzoom",
+                    "species": "Dominaught",
+                    "elements": ["Air","Electric"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.069": {
+                    "id": "2.069",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Noxvil" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/069.png"
+                        }
+                    },
+                    "name": "Noxvil",
+                    "species": "Daemayem",
+                    "elements": ["Dark"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.070": {
+                    "id": "2.070",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Rygon" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/070.png"
+                        }
+                    },
+                    "name": "Rygon",
+                    "species": "Kydrakin",
+                    "elements": ["Electric"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.071": {
+                    "id": "2.071",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Elemor" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/071.png"
+                        }
+                    },
+                    "name": "Elemor",
+                    "species": "Felgadon",
+                    "elements": ["Rock"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.072": {
+                    "id": "2.072",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Viventic" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/072.png"
+                        }
+                    },
+                    "name": "Viventic",
+                    "species": "Serpenlisk",
+                    "elements": ["Nature","Ice"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.073": {
+                    "id": "2.073",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Soulyote" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/073.png"
+                        }
+                    },
+                    "name": "Soulyote",
+                    "species": "Dominaught",
+                    "elements": ["Spirit"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.074": {
+                    "id": "2.074",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Kerukey" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/074.png"
+                        }
+                    },
+                    "name": "Kerukey",
+                    "species": "Brutaggo",
+                    "elements": ["Fire","Water"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.075": {
+                    "id": "2.075",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Norgon" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/075.png"
+                        }
+                    },
+                    "name": "Norgon",
+                    "species": "Kydrakin",
+                    "elements": ["Ice"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.076": {
+                    "id": "2.076",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Lytviper" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/076.png"
+                        }
+                    },
+                    "name": "Lytviper",
+                    "species": "Serpenlisk",
+                    "elements": ["Electric"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.077": {
+                    "id": "2.077",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Rosleo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/077.png"
+                        }
+                    },
+                    "name": "Rosleo",
+                    "species": "Leonaught",
+                    "elements": ["Nature"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.078": {
+                    "id": "2.078",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Qwell" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/078.png"
+                        }
+                    },
+                    "name": "Qwell",
+                    "species": "Nesavian",
+                    "elements": ["Water"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.079": {
+                    "id": "2.079",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Fubair" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/079.png"
+                        }
+                    },
+                    "name": "Fubair",
+                    "species": "Ursapex",
+                    "elements": ["Air"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.080": {
+                    "id": "2.080",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Magmo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/080.png"
+                        }
+                    },
+                    "name": "Magmo",
+                    "species": "Verminkor",
+                    "elements": ["Fire","Rock"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.081": {
+                    "id": "2.081",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Prismeetle" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/081.png"
+                        }
+                    },
+                    "name": "Prismeetle",
+                    "species": "Xenokron",
+                    "elements": ["Nature"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.082": {
+                    "id": "2.082",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Subursa" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/082.png"
+                        }
+                    },
+                    "name": "Subursa",
+                    "species": "Ursapex",
+                    "elements": ["Ice"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.083": {
+                    "id": "2.083",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Dunemo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/083.png"
+                        }
+                    },
+                    "name": "Dunemo",
+                    "species": "Felgadon",
+                    "elements": ["Air","Rock"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.084": {
+                    "id": "2.084",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Zenoo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/084.png"
+                        }
+                    },
+                    "name": "Zenoo",
+                    "species": "Nesavian",
+                    "elements": ["Spirit"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.085": {
+                    "id": "2.085",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Nagi" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/085.png"
+                        }
+                    },
+                    "name": "Nagi",
+                    "species": "Serpenlisk",
+                    "elements": ["Water"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.086": {
+                    "id": "2.086",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Torva" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/086.png"
+                        }
+                    },
+                    "name": "Torva",
+                    "species": "Tortanite",
+                    "elements": ["Fire"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.087": {
+                    "id": "2.087",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Zephyram" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/087.png"
+                        }
+                    },
+                    "name": "Zephyram",
+                    "species": "Taurosorn",
+                    "elements": ["Air"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.088": {
+                    "id": "2.088",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Sequoiadon" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/088.png"
+                        }
+                    },
+                    "name": "Sequoiadon",
+                    "species": "Felgadon",
+                    "elements": ["Nature"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.089": {
+                    "id": "2.089",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Rocwyler" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/089.png"
+                        }
+                    },
+                    "name": "Rocwyler",
+                    "species": "Dominaught",
+                    "elements": ["Rock"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.090": {
+                    "id": "2.090",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Soulynx" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/090.png"
+                        }
+                    },
+                    "name": "Soulynx",
+                    "species": "Leonaught",
+                    "elements": ["Electric","Spirit"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.091": {
+                    "id": "2.091",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Tedge" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/091.png"
+                        }
+                    },
+                    "name": "Tedge",
+                    "species": "Ursapex",
+                    "elements": ["Nature"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.092": {
+                    "id": "2.092",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Nimdusko" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/092.png"
+                        }
+                    },
+                    "name": "Nimdusko",
+                    "species": "Repticel",
+                    "elements": ["Air","Dark"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.093": {
+                    "id": "2.093",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Fyerguar" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/093.png"
+                        }
+                    },
+                    "name": "Fyerguar",
+                    "species": "Leonaught",
+                    "elements": ["Fire"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.094": {
+                    "id": "2.094",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Phantsea" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/094.png"
+                        }
+                    },
+                    "name": "Phantsea",
+                    "species": "Felgadon",
+                    "elements": ["Water"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.095": {
+                    "id": "2.095",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Komori" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/095.png"
+                        }
+                    },
+                    "name": "Komori",
+                    "species": "Daemayem",
+                    "elements": ["Spirit"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.096": {
+                    "id": "2.096",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Rolem" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/096.png"
+                        }
+                    },
+                    "name": "Rolem",
+                    "species": "Tortanite",
+                    "elements": ["Rock"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.097": {
+                    "id": "2.097",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Ramuit" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/097.png"
+                        }
+                    },
+                    "name": "Ramuit",
+                    "species": "Taurosorn",
+                    "elements": ["Electric","Nature"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.098": {
+                    "id": "2.098",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Frorilla" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/098.png"
+                        }
+                    },
+                    "name": "Frorilla",
+                    "species": "Brutaggo",
+                    "elements": ["Ice"],
+                    "power": 4,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.099": {
+                    "id": "2.099",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Splicer" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/099.png"
+                        }
+                    },
+                    "name": "Splicer",
+                    "species": "Xenokron",
+                    "elements": ["Air"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.100": {
+                    "id": "2.100",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Monfire" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/100.png"
+                        }
+                    },
+                    "name": "Monfire",
+                    "species": "Repticel",
+                    "elements": ["Fire"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.101": {
+                    "id": "2.101",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Urshawave" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/101.png"
+                        }
+                    },
+                    "name": "Urshawave",
+                    "species": "Ursapex",
+                    "elements": ["Water","Dark"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.102": {
+                    "id": "2.102",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Rhiyu" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/102.png"
+                        }
+                    },
+                    "name": "Rhiyu",
+                    "species": "Mernorca",
+                    "elements": ["Ice"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.103": {
+                    "id": "2.103",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Bulfin" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/103.png"
+                        }
+                    },
+                    "name": "Bulfin",
+                    "species": "Taurosorn",
+                    "elements": ["Water"],
+                    "power": 3,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.104": {
+                    "id": "2.104",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Dragairy" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/104.png"
+                        }
+                    },
+                    "name": "Dragairy",
+                    "species": "Kydrakin",
+                    "elements": ["Air","Spirit"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.105": {
+                    "id": "2.105",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Plaeger" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/105.png"
+                        }
+                    },
+                    "name": "Plaeger",
+                    "species": "Verminkor",
+                    "elements": ["Dark"],
+                    "power": 2,
+                    "level": 2,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.106": {
+                    "id": "2.106",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Skalizard" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/106.png"
+                        }
+                    },
+                    "name": "Skalizard",
+                    "species": "Repticel",
+                    "elements": ["Fire","Water"],
+                    "power": 7,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.107": {
+                    "id": "2.107",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Norskyathon" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/107.png"
+                        }
+                    },
+                    "name": "Norskyathon",
+                    "species": "Serpenlisk",
+                    "elements": ["Air","Ice"],
+                    "power": 7,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.108": {
+                    "id": "2.108",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Powraroot" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/108.png"
+                        }
+                    },
+                    "name": "Powraroot",
+                    "species": "Verminkor",
+                    "elements": ["Electric","Nature"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.109": {
+                    "id": "2.109",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Juntungo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/109.png"
+                        }
+                    },
+                    "name": "Juntungo",
+                    "species": "Brutaggo",
+                    "elements": ["Nature","Ice"],
+                    "power": 5,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.110": {
+                    "id": "2.110",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Acceleotah" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/110.png"
+                        }
+                    },
+                    "name": "Acceleotah",
+                    "species": "Leonaught",
+                    "elements": ["Electric"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.111": {
+                    "id": "2.111",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Infernix" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/111.png"
+                        }
+                    },
+                    "name": "Infernix",
+                    "species": "Nesavian",
+                    "elements": ["Fire","Air"],
+                    "power": 2,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.112": {
+                    "id": "2.112",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Vargorrah" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/112.png"
+                        }
+                    },
+                    "name": "Vargorrah",
+                    "species": "Daemayem",
+                    "elements": ["Fire","Electric","Spirit"],
+                    "power": 2,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.113": {
+                    "id": "2.113",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Thoryu" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/113.png"
+                        }
+                    },
+                    "name": "Thoryu",
+                    "species": "Mernorca",
+                    "elements": ["Electric","Ice"],
+                    "power": 7,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.114": {
+                    "id": "2.114",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Spikanine" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/114.png"
+                        }
+                    },
+                    "name": "Spikanine",
+                    "species": "Dominaught",
+                    "elements": ["Rock","Dark","Spirit"],
+                    "power": 0,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.115": {
+                    "id": "2.115",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Stomdune" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/115.png"
+                        }
+                    },
+                    "name": "Stomdune",
+                    "species": "Felgadon",
+                    "elements": ["Air","Rock"],
+                    "power": 4,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.116": {
+                    "id": "2.116",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Inkara" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/116.png"
+                        }
+                    },
+                    "name": "Inkara",
+                    "species": "Xenokron",
+                    "elements": ["Air","Electric","Nature"],
+                    "power": 0,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.117": {
+                    "id": "2.117",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Kodemtha" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/117.png"
+                        }
+                    },
+                    "name": "Kodemtha",
+                    "species": "Serpenlisk",
+                    "elements": ["Fire","Ice"],
+                    "power": 6,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.118": {
+                    "id": "2.118",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Zalimbo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/118.png"
+                        }
+                    },
+                    "name": "Zalimbo",
+                    "species": "Dominaught",
+                    "elements": ["Dark","Spirit"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.119": {
+                    "id": "2.119",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Grazlor" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/119.png"
+                        }
+                    },
+                    "name": "Grazlor",
+                    "species": "Ursapex",
+                    "elements": ["Nature","Ice"],
+                    "power": 5,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.120": {
+                    "id": "2.120",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Volgairo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/120.png"
+                        }
+                    },
+                    "name": "Volgairo",
+                    "species": "Kydrakin",
+                    "elements": ["Fire","Air"],
+                    "power": 9,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.121": {
+                    "id": "2.121",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Nortica" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/121.png"
+                        }
+                    },
+                    "name": "Nortica",
+                    "species": "Mernorca",
+                    "elements": ["Ice"],
+                    "power": 9,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.122": {
+                    "id": "2.122",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Oseidro" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/122.png"
+                        }
+                    },
+                    "name": "Oseidro",
+                    "species": "Taurosorn",
+                    "elements": ["Water","Nature"],
+                    "power": 2,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.123": {
+                    "id": "2.123",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Kaeohkron" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/123.png"
+                        }
+                    },
+                    "name": "Kaeohkron",
+                    "species": "Xenokron",
+                    "elements": ["Dark"],
+                    "power": 0,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.124": {
+                    "id": "2.124",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Massifback" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/124.png"
+                        }
+                    },
+                    "name": "Massifback",
+                    "species": "Ursapex",
+                    "elements": ["Rock"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.125": {
+                    "id": "2.125",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Burburnape" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/125.png"
+                        }
+                    },
+                    "name": "Burburnape",
+                    "species": "Brutaggo",
+                    "elements": ["Fire","Ice"],
+                    "power": 5,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.126": {
+                    "id": "2.126",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Daekuma" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/126.png"
+                        }
+                    },
+                    "name": "Daekuma",
+                    "species": "Daemayem",
+                    "elements": ["Dark","Spirit"],
+                    "power": 6,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.127": {
+                    "id": "2.127",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Icthoric" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/127.png"
+                        }
+                    },
+                    "name": "Icthoric",
+                    "species": "Xenokron",
+                    "elements": ["Electric","Ice"],
+                    "power": 2,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.128": {
+                    "id": "2.128",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Thornotaur" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/128.png"
+                        }
+                    },
+                    "name": "Thornotaur",
+                    "species": "Taurosorn",
+                    "elements": ["Nature"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.129": {
+                    "id": "2.129",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Mimikor" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/129.png"
+                        }
+                    },
+                    "name": "Mimikor",
+                    "species": "Verminkor",
+                    "elements": ["Spirit"],
+                    "power": 0,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.130": {
+                    "id": "2.130",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Grizgroun" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/130.png"
+                        }
+                    },
+                    "name": "Grizgroun",
+                    "species": "Ursapex",
+                    "elements": ["Rock","Nature"],
+                    "power": 6,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.131": {
+                    "id": "2.131",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Termahawk" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/131.png"
+                        }
+                    },
+                    "name": "Termahawk",
+                    "species": "Nesavian",
+                    "elements": ["Water","Dark","Spirit"],
+                    "power": 4,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.132": {
+                    "id": "2.132",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Cykumo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/132.png"
+                        }
+                    },
+                    "name": "Cykumo",
+                    "species": "Tortanite",
+                    "elements": ["Air","Nature"],
+                    "power": 4,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.133": {
+                    "id": "2.133",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Pirocean" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/133.png"
+                        }
+                    },
+                    "name": "Pirocean",
+                    "species": "Taurosorn",
+                    "elements": ["Fire","Water"],
+                    "power": 4,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.134": {
+                    "id": "2.134",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Shinmanari" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/134.png"
+                        }
+                    },
+                    "name": "Shinmanari",
+                    "species": "Serpenlisk",
+                    "elements": ["Electric","Dark"],
+                    "power": 0,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.135": {
+                    "id": "2.135",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Burroobair" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/135.png"
+                        }
+                    },
+                    "name": "Burroobair",
+                    "species": "Ursapex",
+                    "elements": ["Air","Nature","Ice"],
+                    "power": 4,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.136": {
+                    "id": "2.136",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Howlmax" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/136.png"
+                        }
+                    },
+                    "name": "Howlmax",
+                    "species": "Dominaught",
+                    "elements": ["Electric"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.137": {
+                    "id": "2.137",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Oboulga" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/137.png"
+                        }
+                    },
+                    "name": "Oboulga",
+                    "species": "Taurosorn",
+                    "elements": ["Fire","Rock"],
+                    "power": 6,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.138": {
+                    "id": "2.138",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Makhanmo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/138.png"
+                        }
+                    },
+                    "name": "Makhanmo",
+                    "species": "Felgadon",
+                    "elements": ["Ice"],
+                    "power": 8,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.139": {
+                    "id": "2.139",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Moltugo" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/139.png"
+                        }
+                    },
+                    "name": "Moltugo",
+                    "species": "Brutaggo",
+                    "elements": ["Fire"],
+                    "power": 2,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.140": {
+                    "id": "2.140",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Cheearctic" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/140.png"
+                        }
+                    },
+                    "name": "Cheearctic",
+                    "species": "Leonaught",
+                    "elements": ["Electric","Ice"],
+                    "power": 4,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.141": {
+                    "id": "2.141",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Wrairthos" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/141.png"
+                        }
+                    },
+                    "name": "Wrairthos",
+                    "species": "Daemayem",
+                    "elements": ["Air"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.142": {
+                    "id": "2.142",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Gahnisho" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/142.png"
+                        }
+                    },
+                    "name": "Gahnisho",
+                    "species": "Felgadon",
+                    "elements": ["Spirit","Nature"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.143": {
+                    "id": "2.143",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Cinbolthrax" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/143.png"
+                        }
+                    },
+                    "name": "Cinbolthrax",
+                    "species": "Xenokron",
+                    "elements": ["Fire","Electric"],
+                    "power": 2,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.144": {
+                    "id": "2.144",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Psygorokong" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/144.png"
+                        }
+                    },
+                    "name": "Psygorokong",
+                    "species": "Brutaggo",
+                    "elements": ["Rock","Spirit"],
+                    "power": 4,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.145": {
+                    "id": "2.145",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Caligmium" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/145.png"
+                        }
+                    },
+                    "name": "Caligmium",
+                    "species": "Dominaught",
+                    "elements": ["Fire","Dark"],
+                    "power": 6,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.146": {
+                    "id": "2.146",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Sunleozen" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/146.png"
+                        }
+                    },
+                    "name": "Sunleozen",
+                    "species": "Leonaught",
+                    "elements": ["Fire","Dark","Ice"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.147": {
+                    "id": "2.147",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Frightmear" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/147.png"
+                        }
+                    },
+                    "name": "Frightmear",
+                    "species": "Ursapex",
+                    "elements": ["Spirit","Nature"],
+                    "power": 5,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.148": {
+                    "id": "2.148",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Depthtomb" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/148.png"
+                        }
+                    },
+                    "name": "Depthtomb",
+                    "species": "Taurosorn",
+                    "elements": ["Rock","Water","Spirit"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.149": {
+                    "id": "2.149",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Drunagi" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/149.png"
+                        }
+                    },
+                    "name": "Drunagi",
+                    "species": "Kydrakin",
+                    "elements": ["Water","Electric"],
+                    "power": 5,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.150": {
+                    "id": "2.150",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Almegra" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/150.png"
+                        }
+                    },
+                    "name": "Almegra",
+                    "species": "Repticel",
+                    "elements": ["Water","Ice"],
+                    "power": 12,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.151": {
+                    "id": "2.151",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Comera" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/151.png"
+                        }
+                    },
+                    "name": "Comera",
+                    "species": "Serpenlisk",
+                    "elements": ["Fire","Air","Water"],
+                    "power": 7,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.152": {
+                    "id": "2.152",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Boultorbine" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/152.png"
+                        }
+                    },
+                    "name": "Boultorbine",
+                    "species": "Tortanite",
+                    "elements": ["Air","Rock"],
+                    "power": 5,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.153": {
+                    "id": "2.153",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Eroarno" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/153.png"
+                        }
+                    },
+                    "name": "Eroarno",
+                    "species": "Leonaught",
+                    "elements": ["Fire","Rock"],
+                    "power": 4,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.154": {
+                    "id": "2.154",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Monconda" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/154.png"
+                        }
+                    },
+                    "name": "Monconda",
+                    "species": "Serpenlisk",
+                    "elements": ["Nature"],
+                    "power": 0,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.155": {
+                    "id": "2.155",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Locgrova" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/155.png"
+                        }
+                    },
+                    "name": "Locgrova",
+                    "species": "Repticel",
+                    "elements": ["Fire","Water","Nature"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.156": {
+                    "id": "2.156",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Skywindor" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/156.png"
+                        }
+                    },
+                    "name": "Skywindor",
+                    "species": "Nesavian",
+                    "elements": ["Air"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.157": {
+                    "id": "2.157",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Screereap" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/157.png"
+                        }
+                    },
+                    "name": "Screereap",
+                    "species": "Daemayem",
+                    "elements": ["Electric","Spirit"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.158": {
+                    "id": "2.158",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Walanos" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/158.png"
+                        }
+                    },
+                    "name": "Walanos",
+                    "species": "Mernorca",
+                    "elements": ["Water","Spirit"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.159": {
+                    "id": "2.159",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Volentei" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/159.png"
+                        }
+                    },
+                    "name": "Volentei",
+                    "species": "Kydrakin",
+                    "elements": ["Fire"],
+                    "power": 6,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.160": {
+                    "id": "2.160",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Venorat" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/160.png"
+                        }
+                    },
+                    "name": "Venorat",
+                    "species": "Verminkor",
+                    "elements": ["Dark","Nature"],
+                    "power": 1,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.161": {
+                    "id": "2.161",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Broot" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/161.png"
+                        }
+                    },
+                    "name": "Broot",
+                    "species": "Brutaggo",
+                    "elements": ["Rock","Nature","Ice"],
+                    "power": 6,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.162": {
+                    "id": "2.162",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Depthadon" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/162.png"
+                        }
+                    },
+                    "name": "Depthadon",
+                    "species": "Felgadon",
+                    "elements": ["Water","Dark"],
+                    "power": 5,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.163": {
+                    "id": "2.163",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Trideptric" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/163.png"
+                        }
+                    },
+                    "name": "Trideptric",
+                    "species": "Mernorca",
+                    "elements": ["Water","Electric"],
+                    "power": 6,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.164": {
+                    "id": "2.164",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Galvigor" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/164.png"
+                        }
+                    },
+                    "name": "Galvigor",
+                    "species": "Felgadon",
+                    "elements": ["Air","Rock","Nature"],
+                    "power": 1,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.165": {
+                    "id": "2.165",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Howlgus" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/165.png"
+                        }
+                    },
+                    "name": "Howlgus",
+                    "species": "Dominaught",
+                    "elements": ["Air","Ice"],
+                    "power": 5,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.166": {
+                    "id": "2.166",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Rokusei" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/166.png"
+                        }
+                    },
+                    "name": "Rokusei",
+                    "species": "Nesavian",
+                    "elements": ["Air","Dark"],
+                    "power": 6,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.167": {
+                    "id": "2.167",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Chaoseus" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/167.png"
+                        }
+                    },
+                    "name": "Chaoseus",
+                    "species": "Daemayem",
+                    "elements": ["Fire","Electric"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.168": {
+                    "id": "2.168",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Shinwin" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/168.png"
+                        }
+                    },
+                    "name": "Shinwin",
+                    "species": "Verminkor",
+                    "elements": ["Air","Spirit"],
+                    "power": 6,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.169": {
+                    "id": "2.169",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Tornami" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/169.png"
+                        }
+                    },
+                    "name": "Tornami",
+                    "species": "Tortanite",
+                    "elements": ["Water"],
+                    "power": 7,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.170": {
+                    "id": "2.170",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Akusa" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/170.png"
+                        }
+                    },
+                    "name": "Akusa",
+                    "species": "Leonaught",
+                    "elements": ["Dark","Spirit"],
+                    "power": 4,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.171": {
+                    "id": "2.171",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Chronaura" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/171.png"
+                        }
+                    },
+                    "name": "Chronaura",
+                    "species": "Kydrakin",
+                    "elements": ["Electric","Dark","Ice"],
+                    "power": 5,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.172": {
+                    "id": "2.172",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Katanakron" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/172.png"
+                        }
+                    },
+                    "name": "Katanakron",
+                    "species": "Xenokron",
+                    "elements": ["Dark","Nature"],
+                    "power": 2,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.173": {
+                    "id": "2.173",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Mershintric" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/173.png"
+                        }
+                    },
+                    "name": "Mershintric",
+                    "species": "Mernorca",
+                    "elements": ["Water","Electric","Spirit"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.174": {
+                    "id": "2.174",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Ficesuta" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/174.png"
+                        }
+                    },
+                    "name": "Ficesuta",
+                    "species": "Kydrakin",
+                    "elements": ["Fire","Ice"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.175": {
+                    "id": "2.175",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Tormortar" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/175.png"
+                        }
+                    },
+                    "name": "Tormortar",
+                    "species": "Tortanite",
+                    "elements": ["Fire","Water"],
+                    "power": 7,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.176": {
+                    "id": "2.176",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Voiriftic" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/176.png"
+                        }
+                    },
+                    "name": "Voiriftic",
+                    "species": "Verminkor",
+                    "elements": ["Air","Electric","Dark"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.177": {
+                    "id": "2.177",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Frigidnix" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/177.png"
+                        }
+                    },
+                    "name": "Frigidnix",
+                    "species": "Nesavian",
+                    "elements": ["Air","Ice"],
+                    "power": 2,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.178": {
+                    "id": "2.178",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Typerionrex" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/178.png"
+                        }
+                    },
+                    "name": "Typerionrex",
+                    "species": "Repticel",
+                    "elements": ["Fire","Nature"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.179": {
+                    "id": "2.179",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Coreberg" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/179.png"
+                        }
+                    },
+                    "name": "Coreberg",
+                    "species": "Tortanite",
+                    "elements": ["Fire","Rock","Ice"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                },
+"2.180": {
+                    "id": "2.180",
+                    "face": {
+                        "front": {
+                            "name": { "name": "Moonewt" },
+                            "type": "Creature",
+                            "cost": 0,
+                            "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/180.png"
+                        }
+                    },
+                    "name": "Moonewt",
+                    "species": "Repticel",
+                    "elements": ["Dark"],
+                    "power": 3,
+                    "level": 3,
+                    "cost": 0,
+                    "legality": {
+                         "STD": true
+                    }
+                }}
