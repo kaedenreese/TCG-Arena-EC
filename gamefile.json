@@ -57,7 +57,7 @@
     }
   },
   "cards": {
-    "dataUrl": "https://elementalcreaturestcg.com/cards.json",
+    "dataUrl": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/cards.json",
     "cardBack": "https://elementalcreaturestcg.com/images/cards/back.webp"
   }
 }
