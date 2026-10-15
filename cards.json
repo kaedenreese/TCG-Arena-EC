@@ -1,6 +1,7 @@
 {
 "2.001": {
                     "id": "2.001",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Montigo" },
@@ -21,6 +22,7 @@
                 },
 "2.002": {
                     "id": "2.002",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Brukey" },
@@ -41,6 +43,7 @@
                 },
 "2.003": {
                     "id": "2.003",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Felixir" },
@@ -61,6 +64,7 @@
                 },
 "2.004": {
                     "id": "2.004",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Daereap" },
@@ -81,6 +85,7 @@
                 },
 "2.005": {
                     "id": "2.005",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Naryu" },
@@ -101,6 +106,7 @@
                 },
 "2.006": {
                     "id": "2.006",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Venwurm" },
@@ -121,6 +127,7 @@
                 },
 "2.007": {
                     "id": "2.007",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Olivkron" },
@@ -141,6 +148,7 @@
                 },
 "2.008": {
                     "id": "2.008",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Nimbken" },
@@ -161,6 +169,7 @@
                 },
 "2.009": {
                     "id": "2.009",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Omnigon" },
@@ -181,6 +190,7 @@
                 },
 "2.010": {
                     "id": "2.010",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Chowler" },
@@ -201,6 +211,7 @@
                 },
 "2.011": {
                     "id": "2.011",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Zimble" },
@@ -221,6 +232,7 @@
                 },
 "2.012": {
                     "id": "2.012",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Grizler" },
@@ -241,6 +253,7 @@
                 },
 "2.013": {
                     "id": "2.013",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Calfarak" },
@@ -261,6 +274,7 @@
                 },
 "2.014": {
                     "id": "2.014",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Mammo" },
@@ -281,6 +295,7 @@
                 },
 "2.015": {
                     "id": "2.015",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Startle" },
@@ -301,6 +316,7 @@
                 },
 "2.016": {
                     "id": "2.016",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Fintigo" },
@@ -321,6 +337,7 @@
                 },
 "2.017": {
                     "id": "2.017",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Leafkey" },
@@ -341,6 +358,7 @@
                 },
 "2.018": {
                     "id": "2.018",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Flamefur" },
@@ -361,6 +379,7 @@
                 },
 "2.019": {
                     "id": "2.019",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Ghoulyem" },
@@ -381,6 +400,7 @@
                 },
 "2.020": {
                     "id": "2.020",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Mero" },
@@ -401,6 +421,7 @@
                 },
 "2.021": {
                     "id": "2.021",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Voltwurm" },
@@ -421,6 +442,7 @@
                 },
 "2.022": {
                     "id": "2.022",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Lethalki" },
@@ -441,6 +463,7 @@
                 },
 "2.023": {
                     "id": "2.023",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Qwin" },
@@ -461,6 +484,7 @@
                 },
 "2.024": {
                     "id": "2.024",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Volkin" },
@@ -481,6 +505,7 @@
                 },
 "2.025": {
                     "id": "2.025",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Guardog" },
@@ -501,6 +526,7 @@
                 },
 "2.026": {
                     "id": "2.026",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Zimbolt" },
@@ -521,6 +547,7 @@
                 },
 "2.027": {
                     "id": "2.027",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Bair" },
@@ -541,6 +568,7 @@
                 },
 "2.028": {
                     "id": "2.028",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Rox" },
@@ -561,6 +589,7 @@
                 },
 "2.029": {
                     "id": "2.029",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Snowmo" },
@@ -581,6 +610,7 @@
                 },
 "2.030": {
                     "id": "2.030",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Tortrap" },
@@ -601,6 +631,7 @@
                 },
 "2.031": {
                     "id": "2.031",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Hituko" },
@@ -621,6 +652,7 @@
                 },
 "2.032": {
                     "id": "2.032",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Burrocker" },
@@ -641,6 +673,7 @@
                 },
 "2.033": {
                     "id": "2.033",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Meoshu" },
@@ -661,6 +694,7 @@
                 },
 "2.034": {
                     "id": "2.034",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Eketsu" },
@@ -681,6 +715,7 @@
                 },
 "2.035": {
                     "id": "2.035",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Walru" },
@@ -701,6 +736,7 @@
                 },
 "2.036": {
                     "id": "2.036",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Xishim" },
@@ -721,6 +757,7 @@
                 },
 "2.037": {
                     "id": "2.037",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Lytbulb" },
@@ -741,6 +778,7 @@
                 },
 "2.038": {
                     "id": "2.038",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Scootenhoot" },
@@ -761,6 +799,7 @@
                 },
 "2.039": {
                     "id": "2.039",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Frovern" },
@@ -781,6 +820,7 @@
                 },
 "2.040": {
                     "id": "2.040",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Aurwolf" },
@@ -801,6 +841,7 @@
                 },
 "2.041": {
                     "id": "2.041",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Xiomi" },
@@ -821,6 +862,7 @@
                 },
 "2.042": {
                     "id": "2.042",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Bearoot" },
@@ -841,6 +883,7 @@
                 },
 "2.043": {
                     "id": "2.043",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Windullfin" },
@@ -861,6 +904,7 @@
                 },
 "2.044": {
                     "id": "2.044",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Lilydon" },
@@ -881,6 +925,7 @@
                 },
 "2.045": {
                     "id": "2.045",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Smolvolca" },
@@ -901,6 +946,7 @@
                 },
 "2.046": {
                     "id": "2.046",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Natuko" },
@@ -921,6 +967,7 @@
                 },
 "2.047": {
                     "id": "2.047",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Torcos" },
@@ -941,6 +988,7 @@
                 },
 "2.048": {
                     "id": "2.048",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Gorock" },
@@ -961,6 +1009,7 @@
                 },
 "2.049": {
                     "id": "2.049",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Kairiel" },
@@ -981,6 +1030,7 @@
                 },
 "2.050": {
                     "id": "2.050",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Cobreez" },
@@ -1001,6 +1051,7 @@
                 },
 "2.051": {
                     "id": "2.051",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Wattpod" },
@@ -1021,6 +1072,7 @@
                 },
 "2.052": {
                     "id": "2.052",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Rakoda" },
@@ -1041,6 +1093,7 @@
                 },
 "2.053": {
                     "id": "2.053",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Rashee" },
@@ -1061,6 +1114,7 @@
                 },
 "2.054": {
                     "id": "2.054",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Galawolf" },
@@ -1081,6 +1135,7 @@
                 },
 "2.055": {
                     "id": "2.055",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Finnym" },
@@ -1101,6 +1156,7 @@
                 },
 "2.056": {
                     "id": "2.056",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Mermoca" },
@@ -1121,6 +1177,7 @@
                 },
 "2.057": {
                     "id": "2.057",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Pyrogon" },
@@ -1141,6 +1198,7 @@
                 },
 "2.058": {
                     "id": "2.058",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Koritzu" },
@@ -1161,6 +1219,7 @@
                 },
 "2.059": {
                     "id": "2.059",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Aquazard" },
@@ -1181,6 +1240,7 @@
                 },
 "2.060": {
                     "id": "2.060",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Armortle" },
@@ -1201,6 +1261,7 @@
                 },
 "2.061": {
                     "id": "2.061",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Flamingro" },
@@ -1221,6 +1282,7 @@
                 },
 "2.062": {
                     "id": "2.062",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Staratic" },
@@ -1241,6 +1303,7 @@
                 },
 "2.063": {
                     "id": "2.063",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Gurukey" },
@@ -1261,6 +1324,7 @@
                 },
 "2.064": {
                     "id": "2.064",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Arrowkin" },
@@ -1281,6 +1345,7 @@
                 },
 "2.065": {
                     "id": "2.065",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Xenoghos" },
@@ -1301,6 +1366,7 @@
                 },
 "2.066": {
                     "id": "2.066",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Heckle" },
@@ -1321,6 +1387,7 @@
                 },
 "2.067": {
                     "id": "2.067",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Zahnyo" },
@@ -1341,6 +1408,7 @@
                 },
 "2.068": {
                     "id": "2.068",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Chowzoom" },
@@ -1361,6 +1429,7 @@
                 },
 "2.069": {
                     "id": "2.069",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Noxvil" },
@@ -1381,6 +1450,7 @@
                 },
 "2.070": {
                     "id": "2.070",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Rygon" },
@@ -1401,6 +1471,7 @@
                 },
 "2.071": {
                     "id": "2.071",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Elemor" },
@@ -1421,6 +1492,7 @@
                 },
 "2.072": {
                     "id": "2.072",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Viventic" },
@@ -1441,6 +1513,7 @@
                 },
 "2.073": {
                     "id": "2.073",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Soulyote" },
@@ -1461,6 +1534,7 @@
                 },
 "2.074": {
                     "id": "2.074",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Kerukey" },
@@ -1481,6 +1555,7 @@
                 },
 "2.075": {
                     "id": "2.075",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Norgon" },
@@ -1501,6 +1576,7 @@
                 },
 "2.076": {
                     "id": "2.076",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Lytviper" },
@@ -1521,6 +1597,7 @@
                 },
 "2.077": {
                     "id": "2.077",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Rosleo" },
@@ -1541,6 +1618,7 @@
                 },
 "2.078": {
                     "id": "2.078",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Qwell" },
@@ -1561,6 +1639,7 @@
                 },
 "2.079": {
                     "id": "2.079",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Fubair" },
@@ -1581,6 +1660,7 @@
                 },
 "2.080": {
                     "id": "2.080",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Magmo" },
@@ -1601,6 +1681,7 @@
                 },
 "2.081": {
                     "id": "2.081",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Prismeetle" },
@@ -1621,6 +1702,7 @@
                 },
 "2.082": {
                     "id": "2.082",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Subursa" },
@@ -1641,6 +1723,7 @@
                 },
 "2.083": {
                     "id": "2.083",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Dunemo" },
@@ -1661,6 +1744,7 @@
                 },
 "2.084": {
                     "id": "2.084",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Zenoo" },
@@ -1681,6 +1765,7 @@
                 },
 "2.085": {
                     "id": "2.085",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Nagi" },
@@ -1701,6 +1786,7 @@
                 },
 "2.086": {
                     "id": "2.086",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Torva" },
@@ -1721,6 +1807,7 @@
                 },
 "2.087": {
                     "id": "2.087",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Zephyram" },
@@ -1741,6 +1828,7 @@
                 },
 "2.088": {
                     "id": "2.088",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Sequoiadon" },
@@ -1761,6 +1849,7 @@
                 },
 "2.089": {
                     "id": "2.089",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Rocwyler" },
@@ -1781,6 +1870,7 @@
                 },
 "2.090": {
                     "id": "2.090",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Soulynx" },
@@ -1801,6 +1891,7 @@
                 },
 "2.091": {
                     "id": "2.091",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Tedge" },
@@ -1821,6 +1912,7 @@
                 },
 "2.092": {
                     "id": "2.092",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Nimdusko" },
@@ -1841,6 +1933,7 @@
                 },
 "2.093": {
                     "id": "2.093",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Fyerguar" },
@@ -1861,6 +1954,7 @@
                 },
 "2.094": {
                     "id": "2.094",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Phantsea" },
@@ -1881,6 +1975,7 @@
                 },
 "2.095": {
                     "id": "2.095",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Komori" },
@@ -1901,6 +1996,7 @@
                 },
 "2.096": {
                     "id": "2.096",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Rolem" },
@@ -1921,6 +2017,7 @@
                 },
 "2.097": {
                     "id": "2.097",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Ramuit" },
@@ -1941,6 +2038,7 @@
                 },
 "2.098": {
                     "id": "2.098",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Frorilla" },
@@ -1961,6 +2059,7 @@
                 },
 "2.099": {
                     "id": "2.099",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Splicer" },
@@ -1981,6 +2080,7 @@
                 },
 "2.100": {
                     "id": "2.100",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Monfire" },
@@ -2001,6 +2101,7 @@
                 },
 "2.101": {
                     "id": "2.101",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Urshawave" },
@@ -2021,6 +2122,7 @@
                 },
 "2.102": {
                     "id": "2.102",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Rhiyu" },
@@ -2041,6 +2143,7 @@
                 },
 "2.103": {
                     "id": "2.103",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Bulfin" },
@@ -2061,6 +2164,7 @@
                 },
 "2.104": {
                     "id": "2.104",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Dragairy" },
@@ -2081,6 +2185,7 @@
                 },
 "2.105": {
                     "id": "2.105",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Plaeger" },
@@ -2101,6 +2206,7 @@
                 },
 "2.106": {
                     "id": "2.106",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Skalizard" },
@@ -2121,6 +2227,7 @@
                 },
 "2.107": {
                     "id": "2.107",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Norskyathon" },
@@ -2141,6 +2248,7 @@
                 },
 "2.108": {
                     "id": "2.108",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Powraroot" },
@@ -2161,6 +2269,7 @@
                 },
 "2.109": {
                     "id": "2.109",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Juntungo" },
@@ -2181,6 +2290,7 @@
                 },
 "2.110": {
                     "id": "2.110",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Acceleotah" },
@@ -2201,6 +2311,7 @@
                 },
 "2.111": {
                     "id": "2.111",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Infernix" },
@@ -2221,6 +2332,7 @@
                 },
 "2.112": {
                     "id": "2.112",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Vargorrah" },
@@ -2241,6 +2353,7 @@
                 },
 "2.113": {
                     "id": "2.113",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Thoryu" },
@@ -2261,6 +2374,7 @@
                 },
 "2.114": {
                     "id": "2.114",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Spikanine" },
@@ -2281,6 +2395,7 @@
                 },
 "2.115": {
                     "id": "2.115",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Stomdune" },
@@ -2301,6 +2416,7 @@
                 },
 "2.116": {
                     "id": "2.116",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Inkara" },
@@ -2321,6 +2437,7 @@
                 },
 "2.117": {
                     "id": "2.117",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Kodemtha" },
@@ -2341,6 +2458,7 @@
                 },
 "2.118": {
                     "id": "2.118",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Zalimbo" },
@@ -2361,6 +2479,7 @@
                 },
 "2.119": {
                     "id": "2.119",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Grazlor" },
@@ -2381,6 +2500,7 @@
                 },
 "2.120": {
                     "id": "2.120",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Volgairo" },
@@ -2401,6 +2521,7 @@
                 },
 "2.121": {
                     "id": "2.121",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Nortica" },
@@ -2421,6 +2542,7 @@
                 },
 "2.122": {
                     "id": "2.122",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Oseidro" },
@@ -2441,6 +2563,7 @@
                 },
 "2.123": {
                     "id": "2.123",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Kaeohkron" },
@@ -2461,6 +2584,7 @@
                 },
 "2.124": {
                     "id": "2.124",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Massifback" },
@@ -2481,6 +2605,7 @@
                 },
 "2.125": {
                     "id": "2.125",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Burburnape" },
@@ -2501,6 +2626,7 @@
                 },
 "2.126": {
                     "id": "2.126",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Daekuma" },
@@ -2521,6 +2647,7 @@
                 },
 "2.127": {
                     "id": "2.127",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Icthoric" },
@@ -2541,6 +2668,7 @@
                 },
 "2.128": {
                     "id": "2.128",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Thornotaur" },
@@ -2561,6 +2689,7 @@
                 },
 "2.129": {
                     "id": "2.129",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Mimikor" },
@@ -2581,6 +2710,7 @@
                 },
 "2.130": {
                     "id": "2.130",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Grizgroun" },
@@ -2601,6 +2731,7 @@
                 },
 "2.131": {
                     "id": "2.131",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Termahawk" },
@@ -2621,6 +2752,7 @@
                 },
 "2.132": {
                     "id": "2.132",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Cykumo" },
@@ -2641,6 +2773,7 @@
                 },
 "2.133": {
                     "id": "2.133",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Pirocean" },
@@ -2661,6 +2794,7 @@
                 },
 "2.134": {
                     "id": "2.134",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Shinmanari" },
@@ -2681,6 +2815,7 @@
                 },
 "2.135": {
                     "id": "2.135",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Burroobair" },
@@ -2701,6 +2836,7 @@
                 },
 "2.136": {
                     "id": "2.136",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Howlmax" },
@@ -2721,6 +2857,7 @@
                 },
 "2.137": {
                     "id": "2.137",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Oboulga" },
@@ -2741,6 +2878,7 @@
                 },
 "2.138": {
                     "id": "2.138",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Makhanmo" },
@@ -2761,6 +2899,7 @@
                 },
 "2.139": {
                     "id": "2.139",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Moltugo" },
@@ -2781,6 +2920,7 @@
                 },
 "2.140": {
                     "id": "2.140",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Cheearctic" },
@@ -2801,6 +2941,7 @@
                 },
 "2.141": {
                     "id": "2.141",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Wrairthos" },
@@ -2821,6 +2962,7 @@
                 },
 "2.142": {
                     "id": "2.142",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Gahnisho" },
@@ -2841,6 +2983,7 @@
                 },
 "2.143": {
                     "id": "2.143",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Cinbolthrax" },
@@ -2861,6 +3004,7 @@
                 },
 "2.144": {
                     "id": "2.144",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Psygorokong" },
@@ -2881,6 +3025,7 @@
                 },
 "2.145": {
                     "id": "2.145",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Caligmium" },
@@ -2901,6 +3046,7 @@
                 },
 "2.146": {
                     "id": "2.146",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Sunleozen" },
@@ -2921,6 +3067,7 @@
                 },
 "2.147": {
                     "id": "2.147",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Frightmear" },
@@ -2941,6 +3088,7 @@
                 },
 "2.148": {
                     "id": "2.148",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Depthtomb" },
@@ -2961,6 +3109,7 @@
                 },
 "2.149": {
                     "id": "2.149",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Drunagi" },
@@ -2981,6 +3130,7 @@
                 },
 "2.150": {
                     "id": "2.150",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Almegra" },
@@ -3001,6 +3151,7 @@
                 },
 "2.151": {
                     "id": "2.151",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Comera" },
@@ -3021,6 +3172,7 @@
                 },
 "2.152": {
                     "id": "2.152",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Boultorbine" },
@@ -3041,6 +3193,7 @@
                 },
 "2.153": {
                     "id": "2.153",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Eroarno" },
@@ -3061,6 +3214,7 @@
                 },
 "2.154": {
                     "id": "2.154",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Monconda" },
@@ -3081,6 +3235,7 @@
                 },
 "2.155": {
                     "id": "2.155",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Locgrova" },
@@ -3101,6 +3256,7 @@
                 },
 "2.156": {
                     "id": "2.156",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Skywindor" },
@@ -3121,6 +3277,7 @@
                 },
 "2.157": {
                     "id": "2.157",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Screereap" },
@@ -3141,6 +3298,7 @@
                 },
 "2.158": {
                     "id": "2.158",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Walanos" },
@@ -3161,6 +3319,7 @@
                 },
 "2.159": {
                     "id": "2.159",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Volentei" },
@@ -3181,6 +3340,7 @@
                 },
 "2.160": {
                     "id": "2.160",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Venorat" },
@@ -3201,6 +3361,7 @@
                 },
 "2.161": {
                     "id": "2.161",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Broot" },
@@ -3221,6 +3382,7 @@
                 },
 "2.162": {
                     "id": "2.162",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Depthadon" },
@@ -3241,6 +3403,7 @@
                 },
 "2.163": {
                     "id": "2.163",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Trideptric" },
@@ -3261,6 +3424,7 @@
                 },
 "2.164": {
                     "id": "2.164",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Galvigor" },
@@ -3281,6 +3445,7 @@
                 },
 "2.165": {
                     "id": "2.165",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Howlgus" },
@@ -3301,6 +3466,7 @@
                 },
 "2.166": {
                     "id": "2.166",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Rokusei" },
@@ -3321,6 +3487,7 @@
                 },
 "2.167": {
                     "id": "2.167",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Chaoseus" },
@@ -3341,6 +3508,7 @@
                 },
 "2.168": {
                     "id": "2.168",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Shinwin" },
@@ -3361,6 +3529,7 @@
                 },
 "2.169": {
                     "id": "2.169",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Tornami" },
@@ -3381,6 +3550,7 @@
                 },
 "2.170": {
                     "id": "2.170",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Akusa" },
@@ -3401,6 +3571,7 @@
                 },
 "2.171": {
                     "id": "2.171",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Chronaura" },
@@ -3421,6 +3592,7 @@
                 },
 "2.172": {
                     "id": "2.172",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Katanakron" },
@@ -3441,6 +3613,7 @@
                 },
 "2.173": {
                     "id": "2.173",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Mershintric" },
@@ -3461,6 +3634,7 @@
                 },
 "2.174": {
                     "id": "2.174",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Ficesuta" },
@@ -3481,6 +3655,7 @@
                 },
 "2.175": {
                     "id": "2.175",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Tormortar" },
@@ -3501,6 +3676,7 @@
                 },
 "2.176": {
                     "id": "2.176",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Voiriftic" },
@@ -3521,6 +3697,7 @@
                 },
 "2.177": {
                     "id": "2.177",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Frigidnix" },
@@ -3541,6 +3718,7 @@
                 },
 "2.178": {
                     "id": "2.178",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Typerionrex" },
@@ -3561,6 +3739,7 @@
                 },
 "2.179": {
                     "id": "2.179",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Coreberg" },
@@ -3581,6 +3760,7 @@
                 },
 "2.180": {
                     "id": "2.180",
+                    "type": "Creature",
                     "face": {
                         "front": {
                             "name": { "name": "Moonewt" },
