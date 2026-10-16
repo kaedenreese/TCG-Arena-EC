@@ -1,9 +1,9 @@
 {
   "name": "Elemental Creatures",
-  "menuBackgroundImage": "https://elementalcreaturestcg.com/images/cards/menu_background.webp",
+  "menuBackgroundImage": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/menu_background.webp",
   "defaultRessources": {
     "backgrounds": [
-      "https://elementalcreaturestcg.com/images/cards/menu_background.webp"
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/banner.webp"
     ]
   },
   "deckBuilding": {
@@ -19,6 +19,9 @@
   },
   "gameplay": {
     "Constructed": {
+      "draggableTokens": [
+        {"id": "Disarmed", "name": "Disarmed", "image": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/disabled.png"}
+      ],
       "mulligan": { 
         "triggeredByButton": false,
         "startingHandSize": 7,
@@ -48,17 +51,37 @@
       "sections": {
         "layout": {
           "direction": "column",
-          "content": [{ "section": "Board" }, {"section":"Discard"}]
+          "content": [{ "section": "Frontline" }, {"section":"Sideline"}]
         },
         "sectionsDict": {
-          "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" },
-          "Discard": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
+          "Frontline": {
+            "isHidden": "no",
+            "height": "50vh",
+            "alignment": "CENTER",
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Sideline"
+              }
+            }
+          },
+          "Sideline": {
+            "isHidden": "no",
+            "height": "50vh",
+            "alignment": "CENTER",
+            "cardActionShortcut": {
+              "action": "MOVE",
+              "actionData": {
+                "destination": "Discard"
+              }
+            }
+          }
         }
       }
     }
   },
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/cards.json",
-    "cardBack": "https://elementalcreaturestcg.com/images/cards/back.webp"
+    "cardBack": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/back.webp"
   }
 }
