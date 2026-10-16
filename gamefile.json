@@ -56,7 +56,7 @@
         "sectionsDict": {
           "Frontline": {
             "isHidden": "no",
-            "height": "50vh",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "cardActionShortcut": {
               "action": "MOVE",
@@ -67,7 +67,7 @@
           },
           "Sideline": {
             "isHidden": "no",
-            "height": "50vh",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "cardActionShortcut": {
               "action": "MOVE",
