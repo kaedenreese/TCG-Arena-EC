@@ -45,7 +45,7 @@
       "newTurn": { 
         "drawOnStart": false,
         "sharedTurn": false,
-        "drawPerTurn": 1
+        "drawPerTurn": 0
       },
       "countersStartingValues": [0],
       "sections": {
