@@ -7,7 +7,7 @@
     ]
   },
   "deckBuilding": {
-    "mainFilters": ["elements", "species", "power", "level"],
+    "mainFilters": ["Elements", "Species", "Level"],
     "formats": [
       { "title": "Constructed", "gameplay": "Constructed" }
     ]
