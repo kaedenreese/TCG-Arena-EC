@@ -13,7 +13,7 @@
                     "name": "Montigo",
                     "Species": "Repticel",
                     "Elements": ["Omniment"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -33,7 +33,7 @@
                     "name": "Brukey",
                     "Species": "Brutaggo",
                     "Elements": ["Omniment"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -53,7 +53,7 @@
                     "name": "Felixir",
                     "Species": "Leonaught",
                     "Elements": ["Omniment"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -73,7 +73,7 @@
                     "name": "Daereap",
                     "Species": "Daemayem",
                     "Elements": ["Omniment"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -93,7 +93,7 @@
                     "name": "Naryu",
                     "Species": "Mernorca",
                     "Elements": ["Omniment"],
-                    "Power": 3,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -113,7 +113,7 @@
                     "name": "Venwurm",
                     "Species": "Serpenlisk",
                     "Elements": ["Omniment"],
-                    "Power": 3,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -133,7 +133,7 @@
                     "name": "Olivkron",
                     "Species": "Xenokron",
                     "Elements": ["Omniment"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -153,7 +153,7 @@
                     "name": "Nimbken",
                     "Species": "Nesavian",
                     "Elements": ["Omniment"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -173,7 +173,7 @@
                     "name": "Omnigon",
                     "Species": "Kydrakin",
                     "Elements": ["Omniment"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -193,7 +193,7 @@
                     "name": "Chowler",
                     "Species": "Dominaught",
                     "Elements": ["Omniment"],
-                    "Power": 3,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -213,7 +213,7 @@
                     "name": "Zimble",
                     "Species": "Verminkor",
                     "Elements": ["Omniment"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -233,7 +233,7 @@
                     "name": "Grizler",
                     "Species": "Ursapex",
                     "Elements": ["Omniment"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -253,7 +253,7 @@
                     "name": "Calfarak",
                     "Species": "Taurosorn",
                     "Elements": ["Omniment"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -273,7 +273,7 @@
                     "name": "Mammo",
                     "Species": "Felgadon",
                     "Elements": ["Omniment"],
-                    "Power": 3,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -293,7 +293,7 @@
                     "name": "Startle",
                     "Species": "Tortanite",
                     "Elements": ["Omniment"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -313,7 +313,7 @@
                     "name": "Fintigo",
                     "Species": "Repticel",
                     "Elements": ["Water"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -333,7 +333,7 @@
                     "name": "Leafkey",
                     "Species": "Brutaggo",
                     "Elements": ["Nature"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -353,7 +353,7 @@
                     "name": "Flamefur",
                     "Species": "Leonaught",
                     "Elements": ["Fire"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -373,7 +373,7 @@
                     "name": "Ghoulyem",
                     "Species": "Daemayem",
                     "Elements": ["Spirit"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -393,7 +393,7 @@
                     "name": "Mero",
                     "Species": "Mernorca",
                     "Elements": ["Spirit"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -413,7 +413,7 @@
                     "name": "Voltwurm",
                     "Species": "Serpenlisk",
                     "Elements": ["Electric"],
-                    "Power": 3,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -433,7 +433,7 @@
                     "name": "Lethalki",
                     "Species": "Xenokron",
                     "Elements": ["Dark"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -453,7 +453,7 @@
                     "name": "Qwin",
                     "Species": "Nesavian",
                     "Elements": ["Air"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -473,7 +473,7 @@
                     "name": "Volkin",
                     "Species": "Kydrakin",
                     "Elements": ["Fire"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -493,7 +493,7 @@
                     "name": "Guardog",
                     "Species": "Dominaught",
                     "Elements": ["Dark"],
-                    "Power": 3,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -513,7 +513,7 @@
                     "name": "Zimbolt",
                     "Species": "Verminkor",
                     "Elements": ["Electric"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -533,7 +533,7 @@
                     "name": "Bair",
                     "Species": "Ursapex",
                     "Elements": ["Air"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -553,7 +553,7 @@
                     "name": "Rox",
                     "Species": "Taurosorn",
                     "Elements": ["Rock"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -573,7 +573,7 @@
                     "name": "Snowmo",
                     "Species": "Felgadon",
                     "Elements": ["Ice"],
-                    "Power": 3,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -593,7 +593,7 @@
                     "name": "Tortrap",
                     "Species": "Tortanite",
                     "Elements": ["Water"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -613,7 +613,7 @@
                     "name": "Hituko",
                     "Species": "Repticel",
                     "Elements": ["Nature","Fire"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -633,7 +633,7 @@
                     "name": "Burrocker",
                     "Species": "Brutaggo",
                     "Elements": ["Rock","Ice"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -653,7 +653,7 @@
                     "name": "Meoshu",
                     "Species": "Leonaught",
                     "Elements": ["Dark","Nature"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -673,7 +673,7 @@
                     "name": "Eketsu",
                     "Species": "Daemayem",
                     "Elements": ["Fire","Electric"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -693,7 +693,7 @@
                     "name": "Walru",
                     "Species": "Mernorca",
                     "Elements": ["Electric","Water"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -713,7 +713,7 @@
                     "name": "Xishim",
                     "Species": "Serpenlisk",
                     "Elements": ["Fire","Water"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -733,7 +733,7 @@
                     "name": "Lytbulb",
                     "Species": "Xenokron",
                     "Elements": ["Nature","Electric"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -753,7 +753,7 @@
                     "name": "Scootenhoot",
                     "Species": "Nesavian",
                     "Elements": ["Spirit","Water"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -773,7 +773,7 @@
                     "name": "Frovern",
                     "Species": "Kydrakin",
                     "Elements": ["Dark","Ice"],
-                    "Power": 1,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -793,7 +793,7 @@
                     "name": "Aurwolf",
                     "Species": "Dominaught",
                     "Elements": ["Spirit","Ice"],
-                    "Power": 3,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -813,7 +813,7 @@
                     "name": "Xiomi",
                     "Species": "Verminkor",
                     "Elements": ["Dark","Air"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -833,7 +833,7 @@
                     "name": "Bearoot",
                     "Species": "Ursapex",
                     "Elements": ["Nature","Rock"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -853,7 +853,7 @@
                     "name": "Windullfin",
                     "Species": "Taurosorn",
                     "Elements": ["Water","Air"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -873,7 +873,7 @@
                     "name": "Lilydon",
                     "Species": "Felgadon",
                     "Elements": ["Nature","Water"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -893,7 +893,7 @@
                     "name": "Smolvolca",
                     "Species": "Tortanite",
                     "Elements": ["Fire","Rock"],
-                    "Power": 2,
+                    "Level": 1,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -913,7 +913,7 @@
                     "name": "Natuko",
                     "Species": "Repticel",
                     "Elements": ["Nature"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -933,7 +933,7 @@
                     "name": "Torcos",
                     "Species": "Taurosorn",
                     "Elements": ["Fire"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -953,7 +953,7 @@
                     "name": "Gorock",
                     "Species": "Brutaggo",
                     "Elements": ["Rock"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -973,7 +973,7 @@
                     "name": "Kairiel",
                     "Species": "Mernorca",
                     "Elements": ["Water"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -993,7 +993,7 @@
                     "name": "Cobreez",
                     "Species": "Serpenlisk",
                     "Elements": ["Air"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1013,7 +1013,7 @@
                     "name": "Wattpod",
                     "Species": "Xenokron",
                     "Elements": ["Electric"],
-                    "Power": 1,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1033,7 +1033,7 @@
                     "name": "Rakoda",
                     "Species": "Leonaught",
                     "Elements": ["Ice"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1053,7 +1053,7 @@
                     "name": "Rashee",
                     "Species": "Verminkor",
                     "Elements": ["Spirit"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1073,7 +1073,7 @@
                     "name": "Galawolf",
                     "Species": "Dominaught",
                     "Elements": ["Dark"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1093,7 +1093,7 @@
                     "name": "Finnym",
                     "Species": "Tortanite",
                     "Elements": ["Air"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1113,7 +1113,7 @@
                     "name": "Mermoca",
                     "Species": "Mernorca",
                     "Elements": ["Rock","Dark"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1133,7 +1133,7 @@
                     "name": "Pyrogon",
                     "Species": "Kydrakin",
                     "Elements": ["Fire"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1153,7 +1153,7 @@
                     "name": "Koritzu",
                     "Species": "Daemayem",
                     "Elements": ["Rock","Ice"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1173,7 +1173,7 @@
                     "name": "Aquazard",
                     "Species": "Repticel",
                     "Elements": ["Water"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1193,7 +1193,7 @@
                     "name": "Armortle",
                     "Species": "Tortanite",
                     "Elements": ["Dark","Ice"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1213,7 +1213,7 @@
                     "name": "Flamingro",
                     "Species": "Nesavian",
                     "Elements": ["Fire","Nature"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1233,7 +1233,7 @@
                     "name": "Staratic",
                     "Species": "Verminkor",
                     "Elements": ["Electric"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1253,7 +1253,7 @@
                     "name": "Gurukey",
                     "Species": "Brutaggo",
                     "Elements": ["Spirit"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1273,7 +1273,7 @@
                     "name": "Arrowkin",
                     "Species": "Nesavian",
                     "Elements": ["Air"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1293,7 +1293,7 @@
                     "name": "Xenoghos",
                     "Species": "Xenokron",
                     "Elements": ["Water","Spirit"],
-                    "Power": 0,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1313,7 +1313,7 @@
                     "name": "Heckle",
                     "Species": "Daemayem",
                     "Elements": ["Fire"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1333,7 +1333,7 @@
                     "name": "Zahnyo",
                     "Species": "Mernorca",
                     "Elements": ["Spirit"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1353,7 +1353,7 @@
                     "name": "Chowzoom",
                     "Species": "Dominaught",
                     "Elements": ["Air","Electric"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1373,7 +1373,7 @@
                     "name": "Noxvil",
                     "Species": "Daemayem",
                     "Elements": ["Dark"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1393,7 +1393,7 @@
                     "name": "Rygon",
                     "Species": "Kydrakin",
                     "Elements": ["Electric"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1413,7 +1413,7 @@
                     "name": "Elemor",
                     "Species": "Felgadon",
                     "Elements": ["Rock"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1433,7 +1433,7 @@
                     "name": "Viventic",
                     "Species": "Serpenlisk",
                     "Elements": ["Nature","Ice"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1453,7 +1453,7 @@
                     "name": "Soulyote",
                     "Species": "Dominaught",
                     "Elements": ["Spirit"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1473,7 +1473,7 @@
                     "name": "Kerukey",
                     "Species": "Brutaggo",
                     "Elements": ["Fire","Water"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1493,7 +1493,7 @@
                     "name": "Norgon",
                     "Species": "Kydrakin",
                     "Elements": ["Ice"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1513,7 +1513,7 @@
                     "name": "Lytviper",
                     "Species": "Serpenlisk",
                     "Elements": ["Electric"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1533,7 +1533,7 @@
                     "name": "Rosleo",
                     "Species": "Leonaught",
                     "Elements": ["Nature"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1553,7 +1553,7 @@
                     "name": "Qwell",
                     "Species": "Nesavian",
                     "Elements": ["Water"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1573,7 +1573,7 @@
                     "name": "Fubair",
                     "Species": "Ursapex",
                     "Elements": ["Air"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1593,7 +1593,7 @@
                     "name": "Magmo",
                     "Species": "Verminkor",
                     "Elements": ["Fire","Rock"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1613,7 +1613,7 @@
                     "name": "Prismeetle",
                     "Species": "Xenokron",
                     "Elements": ["Nature"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1633,7 +1633,7 @@
                     "name": "Subursa",
                     "Species": "Ursapex",
                     "Elements": ["Ice"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1653,7 +1653,7 @@
                     "name": "Dunemo",
                     "Species": "Felgadon",
                     "Elements": ["Air","Rock"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1673,7 +1673,7 @@
                     "name": "Zenoo",
                     "Species": "Nesavian",
                     "Elements": ["Spirit"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1693,7 +1693,7 @@
                     "name": "Nagi",
                     "Species": "Serpenlisk",
                     "Elements": ["Water"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1713,7 +1713,7 @@
                     "name": "Torva",
                     "Species": "Tortanite",
                     "Elements": ["Fire"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1733,7 +1733,7 @@
                     "name": "Zephyram",
                     "Species": "Taurosorn",
                     "Elements": ["Air"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1753,7 +1753,7 @@
                     "name": "Sequoiadon",
                     "Species": "Felgadon",
                     "Elements": ["Nature"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1773,7 +1773,7 @@
                     "name": "Rocwyler",
                     "Species": "Dominaught",
                     "Elements": ["Rock"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1793,7 +1793,7 @@
                     "name": "Soulynx",
                     "Species": "Leonaught",
                     "Elements": ["Electric","Spirit"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1813,7 +1813,7 @@
                     "name": "Tedge",
                     "Species": "Ursapex",
                     "Elements": ["Nature"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1833,7 +1833,7 @@
                     "name": "Nimdusko",
                     "Species": "Repticel",
                     "Elements": ["Air","Dark"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1853,7 +1853,7 @@
                     "name": "Fyerguar",
                     "Species": "Leonaught",
                     "Elements": ["Fire"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1873,7 +1873,7 @@
                     "name": "Phantsea",
                     "Species": "Felgadon",
                     "Elements": ["Water"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1893,7 +1893,7 @@
                     "name": "Komori",
                     "Species": "Daemayem",
                     "Elements": ["Spirit"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1913,7 +1913,7 @@
                     "name": "Rolem",
                     "Species": "Tortanite",
                     "Elements": ["Rock"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1933,7 +1933,7 @@
                     "name": "Ramuit",
                     "Species": "Taurosorn",
                     "Elements": ["Electric","Nature"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1953,7 +1953,7 @@
                     "name": "Frorilla",
                     "Species": "Brutaggo",
                     "Elements": ["Ice"],
-                    "Power": 4,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1973,7 +1973,7 @@
                     "name": "Splicer",
                     "Species": "Xenokron",
                     "Elements": ["Air"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -1993,7 +1993,7 @@
                     "name": "Monfire",
                     "Species": "Repticel",
                     "Elements": ["Fire"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2013,7 +2013,7 @@
                     "name": "Urshawave",
                     "Species": "Ursapex",
                     "Elements": ["Water","Dark"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2033,7 +2033,7 @@
                     "name": "Rhiyu",
                     "Species": "Mernorca",
                     "Elements": ["Ice"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2053,7 +2053,7 @@
                     "name": "Bulfin",
                     "Species": "Taurosorn",
                     "Elements": ["Water"],
-                    "Power": 3,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2073,7 +2073,7 @@
                     "name": "Dragairy",
                     "Species": "Kydrakin",
                     "Elements": ["Air","Spirit"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2093,7 +2093,7 @@
                     "name": "Plaeger",
                     "Species": "Verminkor",
                     "Elements": ["Dark"],
-                    "Power": 2,
+                    "Level": 2,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2113,7 +2113,7 @@
                     "name": "Skalizard",
                     "Species": "Repticel",
                     "Elements": ["Fire","Water"],
-                    "Power": 7,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2133,7 +2133,7 @@
                     "name": "Norskyathon",
                     "Species": "Serpenlisk",
                     "Elements": ["Air","Ice"],
-                    "Power": 7,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2153,7 +2153,7 @@
                     "name": "Powraroot",
                     "Species": "Verminkor",
                     "Elements": ["Electric","Nature"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2173,7 +2173,7 @@
                     "name": "Juntungo",
                     "Species": "Brutaggo",
                     "Elements": ["Nature","Ice"],
-                    "Power": 5,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2193,7 +2193,7 @@
                     "name": "Acceleotah",
                     "Species": "Leonaught",
                     "Elements": ["Electric"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2213,7 +2213,7 @@
                     "name": "Infernix",
                     "Species": "Nesavian",
                     "Elements": ["Fire","Air"],
-                    "Power": 2,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2233,7 +2233,7 @@
                     "name": "Vargorrah",
                     "Species": "Daemayem",
                     "Elements": ["Fire","Electric","Spirit"],
-                    "Power": 2,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2253,7 +2253,7 @@
                     "name": "Thoryu",
                     "Species": "Mernorca",
                     "Elements": ["Electric","Ice"],
-                    "Power": 7,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2273,7 +2273,7 @@
                     "name": "Spikanine",
                     "Species": "Dominaught",
                     "Elements": ["Rock","Dark","Spirit"],
-                    "Power": 0,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2293,7 +2293,7 @@
                     "name": "Stomdune",
                     "Species": "Felgadon",
                     "Elements": ["Air","Rock"],
-                    "Power": 4,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2313,7 +2313,7 @@
                     "name": "Inkara",
                     "Species": "Xenokron",
                     "Elements": ["Air","Electric","Nature"],
-                    "Power": 0,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2333,7 +2333,7 @@
                     "name": "Kodemtha",
                     "Species": "Serpenlisk",
                     "Elements": ["Fire","Ice"],
-                    "Power": 6,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2353,7 +2353,7 @@
                     "name": "Zalimbo",
                     "Species": "Dominaught",
                     "Elements": ["Dark","Spirit"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2373,7 +2373,7 @@
                     "name": "Grazlor",
                     "Species": "Ursapex",
                     "Elements": ["Nature","Ice"],
-                    "Power": 5,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2393,7 +2393,7 @@
                     "name": "Volgairo",
                     "Species": "Kydrakin",
                     "Elements": ["Fire","Air"],
-                    "Power": 9,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2413,7 +2413,7 @@
                     "name": "Nortica",
                     "Species": "Mernorca",
                     "Elements": ["Ice"],
-                    "Power": 9,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2433,7 +2433,7 @@
                     "name": "Oseidro",
                     "Species": "Taurosorn",
                     "Elements": ["Water","Nature"],
-                    "Power": 2,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2453,7 +2453,7 @@
                     "name": "Kaeohkron",
                     "Species": "Xenokron",
                     "Elements": ["Dark"],
-                    "Power": 0,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2473,7 +2473,7 @@
                     "name": "Massifback",
                     "Species": "Ursapex",
                     "Elements": ["Rock"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2493,7 +2493,7 @@
                     "name": "Burburnape",
                     "Species": "Brutaggo",
                     "Elements": ["Fire","Ice"],
-                    "Power": 5,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2513,7 +2513,7 @@
                     "name": "Daekuma",
                     "Species": "Daemayem",
                     "Elements": ["Dark","Spirit"],
-                    "Power": 6,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2533,7 +2533,7 @@
                     "name": "Icthoric",
                     "Species": "Xenokron",
                     "Elements": ["Electric","Ice"],
-                    "Power": 2,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2553,7 +2553,7 @@
                     "name": "Thornotaur",
                     "Species": "Taurosorn",
                     "Elements": ["Nature"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2573,7 +2573,7 @@
                     "name": "Mimikor",
                     "Species": "Verminkor",
                     "Elements": ["Spirit"],
-                    "Power": 0,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2593,7 +2593,7 @@
                     "name": "Grizgroun",
                     "Species": "Ursapex",
                     "Elements": ["Rock","Nature"],
-                    "Power": 6,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2613,7 +2613,7 @@
                     "name": "Termahawk",
                     "Species": "Nesavian",
                     "Elements": ["Water","Dark","Spirit"],
-                    "Power": 4,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2633,7 +2633,7 @@
                     "name": "Cykumo",
                     "Species": "Tortanite",
                     "Elements": ["Air","Nature"],
-                    "Power": 4,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2653,7 +2653,7 @@
                     "name": "Pirocean",
                     "Species": "Taurosorn",
                     "Elements": ["Fire","Water"],
-                    "Power": 4,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2673,7 +2673,7 @@
                     "name": "Shinmanari",
                     "Species": "Serpenlisk",
                     "Elements": ["Electric","Dark"],
-                    "Power": 0,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2693,7 +2693,7 @@
                     "name": "Burroobair",
                     "Species": "Ursapex",
                     "Elements": ["Air","Nature","Ice"],
-                    "Power": 4,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2713,7 +2713,7 @@
                     "name": "Howlmax",
                     "Species": "Dominaught",
                     "Elements": ["Electric"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2733,7 +2733,7 @@
                     "name": "Oboulga",
                     "Species": "Taurosorn",
                     "Elements": ["Fire","Rock"],
-                    "Power": 6,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2753,7 +2753,7 @@
                     "name": "Makhanmo",
                     "Species": "Felgadon",
                     "Elements": ["Ice"],
-                    "Power": 8,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2773,7 +2773,7 @@
                     "name": "Moltugo",
                     "Species": "Brutaggo",
                     "Elements": ["Fire"],
-                    "Power": 2,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2793,7 +2793,7 @@
                     "name": "Cheearctic",
                     "Species": "Leonaught",
                     "Elements": ["Electric","Ice"],
-                    "Power": 4,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2813,7 +2813,7 @@
                     "name": "Wrairthos",
                     "Species": "Daemayem",
                     "Elements": ["Air"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2833,7 +2833,7 @@
                     "name": "Gahnisho",
                     "Species": "Felgadon",
                     "Elements": ["Spirit","Nature"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2853,7 +2853,7 @@
                     "name": "Cinbolthrax",
                     "Species": "Xenokron",
                     "Elements": ["Fire","Electric"],
-                    "Power": 2,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2873,7 +2873,7 @@
                     "name": "Psygorokong",
                     "Species": "Brutaggo",
                     "Elements": ["Rock","Spirit"],
-                    "Power": 4,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2893,7 +2893,7 @@
                     "name": "Caligmium",
                     "Species": "Dominaught",
                     "Elements": ["Fire","Dark"],
-                    "Power": 6,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2913,7 +2913,7 @@
                     "name": "Sunleozen",
                     "Species": "Leonaught",
                     "Elements": ["Fire","Dark","Ice"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2933,7 +2933,7 @@
                     "name": "Frightmear",
                     "Species": "Ursapex",
                     "Elements": ["Spirit","Nature"],
-                    "Power": 5,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2953,7 +2953,7 @@
                     "name": "Depthtomb",
                     "Species": "Taurosorn",
                     "Elements": ["Rock","Water","Spirit"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2973,7 +2973,7 @@
                     "name": "Drunagi",
                     "Species": "Kydrakin",
                     "Elements": ["Water","Electric"],
-                    "Power": 5,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -2993,7 +2993,7 @@
                     "name": "Almegra",
                     "Species": "Repticel",
                     "Elements": ["Water","Ice"],
-                    "Power": 12,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3013,7 +3013,7 @@
                     "name": "Comera",
                     "Species": "Serpenlisk",
                     "Elements": ["Fire","Air","Water"],
-                    "Power": 7,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3033,7 +3033,7 @@
                     "name": "Boultorbine",
                     "Species": "Tortanite",
                     "Elements": ["Air","Rock"],
-                    "Power": 5,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3053,7 +3053,7 @@
                     "name": "Eroarno",
                     "Species": "Leonaught",
                     "Elements": ["Fire","Rock"],
-                    "Power": 4,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3073,7 +3073,7 @@
                     "name": "Monconda",
                     "Species": "Serpenlisk",
                     "Elements": ["Nature"],
-                    "Power": 0,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3093,7 +3093,7 @@
                     "name": "Locgrova",
                     "Species": "Repticel",
                     "Elements": ["Fire","Water","Nature"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3113,7 +3113,7 @@
                     "name": "Skywindor",
                     "Species": "Nesavian",
                     "Elements": ["Air"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3133,7 +3133,7 @@
                     "name": "Screereap",
                     "Species": "Daemayem",
                     "Elements": ["Electric","Spirit"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3153,7 +3153,7 @@
                     "name": "Walanos",
                     "Species": "Mernorca",
                     "Elements": ["Water","Spirit"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3173,7 +3173,7 @@
                     "name": "Volentei",
                     "Species": "Kydrakin",
                     "Elements": ["Fire"],
-                    "Power": 6,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3193,7 +3193,7 @@
                     "name": "Venorat",
                     "Species": "Verminkor",
                     "Elements": ["Dark","Nature"],
-                    "Power": 1,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3213,7 +3213,7 @@
                     "name": "Broot",
                     "Species": "Brutaggo",
                     "Elements": ["Rock","Nature","Ice"],
-                    "Power": 6,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3233,7 +3233,7 @@
                     "name": "Depthadon",
                     "Species": "Felgadon",
                     "Elements": ["Water","Dark"],
-                    "Power": 5,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3253,7 +3253,7 @@
                     "name": "Trideptric",
                     "Species": "Mernorca",
                     "Elements": ["Water","Electric"],
-                    "Power": 6,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3273,7 +3273,7 @@
                     "name": "Galvigor",
                     "Species": "Felgadon",
                     "Elements": ["Air","Rock","Nature"],
-                    "Power": 1,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3293,7 +3293,7 @@
                     "name": "Howlgus",
                     "Species": "Dominaught",
                     "Elements": ["Air","Ice"],
-                    "Power": 5,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3313,7 +3313,7 @@
                     "name": "Rokusei",
                     "Species": "Nesavian",
                     "Elements": ["Air","Dark"],
-                    "Power": 6,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3333,7 +3333,7 @@
                     "name": "Chaoseus",
                     "Species": "Daemayem",
                     "Elements": ["Fire","Electric"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3353,7 +3353,7 @@
                     "name": "Shinwin",
                     "Species": "Verminkor",
                     "Elements": ["Air","Spirit"],
-                    "Power": 6,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3373,7 +3373,7 @@
                     "name": "Tornami",
                     "Species": "Tortanite",
                     "Elements": ["Water"],
-                    "Power": 7,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3393,7 +3393,7 @@
                     "name": "Akusa",
                     "Species": "Leonaught",
                     "Elements": ["Dark","Spirit"],
-                    "Power": 4,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3413,7 +3413,7 @@
                     "name": "Chronaura",
                     "Species": "Kydrakin",
                     "Elements": ["Electric","Dark","Ice"],
-                    "Power": 5,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3433,7 +3433,7 @@
                     "name": "Katanakron",
                     "Species": "Xenokron",
                     "Elements": ["Dark","Nature"],
-                    "Power": 2,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3453,7 +3453,7 @@
                     "name": "Mershintric",
                     "Species": "Mernorca",
                     "Elements": ["Water","Electric","Spirit"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3473,7 +3473,7 @@
                     "name": "Ficesuta",
                     "Species": "Kydrakin",
                     "Elements": ["Fire","Ice"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3493,7 +3493,7 @@
                     "name": "Tormortar",
                     "Species": "Tortanite",
                     "Elements": ["Fire","Water"],
-                    "Power": 7,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3513,7 +3513,7 @@
                     "name": "Voiriftic",
                     "Species": "Verminkor",
                     "Elements": ["Air","Electric","Dark"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3533,7 +3533,7 @@
                     "name": "Frigidnix",
                     "Species": "Nesavian",
                     "Elements": ["Air","Ice"],
-                    "Power": 2,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3553,7 +3553,7 @@
                     "name": "Typerionrex",
                     "Species": "Repticel",
                     "Elements": ["Fire","Nature"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3573,7 +3573,7 @@
                     "name": "Coreberg",
                     "Species": "Tortanite",
                     "Elements": ["Fire","Rock","Ice"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
@@ -3593,7 +3593,7 @@
                     "name": "Moonewt",
                     "Species": "Repticel",
                     "Elements": ["Dark"],
-                    "Power": 3,
+                    "Level": 3,
                     "cost": 0,
                     "legality": {
                          "STD": true
