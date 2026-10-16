@@ -4,7 +4,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Montigo" },
+                            "name": "Montigo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/001.png"
@@ -24,7 +24,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Brukey" },
+                            "name": "Brukey",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/002.png"
@@ -44,7 +44,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Felixir" },
+                            "name": "Felixir",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/003.png"
@@ -64,7 +64,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Daereap" },
+                            "name": "Daereap",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/004.png"
@@ -84,7 +84,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Naryu" },
+                            "name": "Naryu",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/005.png"
@@ -104,7 +104,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Venwurm" },
+                            "name": "Venwurm",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/006.png"
@@ -124,7 +124,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Olivkron" },
+                            "name": "Olivkron",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/007.png"
@@ -144,7 +144,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Nimbken" },
+                            "name": "Nimbken",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/008.png"
@@ -164,7 +164,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Omnigon" },
+                            "name": "Omnigon",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/009.png"
@@ -184,7 +184,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Chowler" },
+                            "name": "Chowler",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/010.png"
@@ -204,7 +204,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Zimble" },
+                            "name": "Zimble",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/011.png"
@@ -224,7 +224,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Grizler" },
+                            "name": "Grizler",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/012.png"
@@ -244,7 +244,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Calfarak" },
+                            "name": "Calfarak",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/013.png"
@@ -264,7 +264,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Mammo" },
+                            "name": "Mammo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/014.png"
@@ -284,7 +284,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Startle" },
+                            "name": "Startle",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/015.png"
@@ -304,7 +304,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Fintigo" },
+                            "name": "Fintigo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/016.png"
@@ -324,7 +324,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Leafkey" },
+                            "name": "Leafkey",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/017.png"
@@ -344,7 +344,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Flamefur" },
+                            "name": "Flamefur",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/018.png"
@@ -364,7 +364,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Ghoulyem" },
+                            "name": "Ghoulyem",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/019.png"
@@ -384,7 +384,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Mero" },
+                            "name": "Mero",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/020.png"
@@ -404,7 +404,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Voltwurm" },
+                            "name": "Voltwurm",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/021.png"
@@ -424,7 +424,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Lethalki" },
+                            "name": "Lethalki",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/022.png"
@@ -444,7 +444,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Qwin" },
+                            "name": "Qwin",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/023.png"
@@ -464,7 +464,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Volkin" },
+                            "name": "Volkin",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/024.png"
@@ -484,7 +484,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Guardog" },
+                            "name": "Guardog",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/025.png"
@@ -504,7 +504,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Zimbolt" },
+                            "name": "Zimbolt",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/026.png"
@@ -524,7 +524,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Bair" },
+                            "name": "Bair",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/027.png"
@@ -544,7 +544,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Rox" },
+                            "name": "Rox",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/028.png"
@@ -564,7 +564,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Snowmo" },
+                            "name": "Snowmo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/029.png"
@@ -584,7 +584,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Tortrap" },
+                            "name": "Tortrap",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/030.png"
@@ -604,7 +604,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Hituko" },
+                            "name": "Hituko",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/031.png"
@@ -624,7 +624,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Burrocker" },
+                            "name": "Burrocker",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/032.png"
@@ -644,7 +644,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Meoshu" },
+                            "name": "Meoshu",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/033.png"
@@ -664,7 +664,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Eketsu" },
+                            "name": "Eketsu",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/034.png"
@@ -684,7 +684,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Walru" },
+                            "name": "Walru",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/035.png"
@@ -704,7 +704,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Xishim" },
+                            "name": "Xishim",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/036.png"
@@ -724,7 +724,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Lytbulb" },
+                            "name": "Lytbulb",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/037.png"
@@ -744,7 +744,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Scootenhoot" },
+                            "name": "Scootenhoot",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/038.png"
@@ -764,7 +764,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Frovern" },
+                            "name": "Frovern",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/039.png"
@@ -784,7 +784,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Aurwolf" },
+                            "name": "Aurwolf",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/040.png"
@@ -804,7 +804,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Xiomi" },
+                            "name": "Xiomi",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/041.png"
@@ -824,7 +824,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Bearoot" },
+                            "name": "Bearoot",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/042.png"
@@ -844,7 +844,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Windullfin" },
+                            "name": "Windullfin",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/043.png"
@@ -864,7 +864,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Lilydon" },
+                            "name": "Lilydon",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/044.png"
@@ -884,7 +884,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Smolvolca" },
+                            "name": "Smolvolca",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/045.png"
@@ -904,7 +904,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Natuko" },
+                            "name": "Natuko",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/046.png"
@@ -924,7 +924,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Torcos" },
+                            "name": "Torcos",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/047.png"
@@ -944,7 +944,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Gorock" },
+                            "name": "Gorock",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/048.png"
@@ -964,7 +964,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Kairiel" },
+                            "name": "Kairiel",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/049.png"
@@ -984,7 +984,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Cobreez" },
+                            "name": "Cobreez",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/050.png"
@@ -1004,7 +1004,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Wattpod" },
+                            "name": "Wattpod",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/051.png"
@@ -1024,7 +1024,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Rakoda" },
+                            "name": "Rakoda",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/052.png"
@@ -1044,7 +1044,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Rashee" },
+                            "name": "Rashee",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/053.png"
@@ -1064,7 +1064,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Galawolf" },
+                            "name": "Galawolf",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/054.png"
@@ -1084,7 +1084,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Finnym" },
+                            "name": "Finnym",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/055.png"
@@ -1104,7 +1104,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Mermoca" },
+                            "name": "Mermoca",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/056.png"
@@ -1124,7 +1124,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Pyrogon" },
+                            "name": "Pyrogon",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/057.png"
@@ -1144,7 +1144,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Koritzu" },
+                            "name": "Koritzu",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/058.png"
@@ -1164,7 +1164,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Aquazard" },
+                            "name": "Aquazard",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/059.png"
@@ -1184,7 +1184,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Armortle" },
+                            "name": "Armortle",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/060.png"
@@ -1204,7 +1204,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Flamingro" },
+                            "name": "Flamingro",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/061.png"
@@ -1224,7 +1224,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Staratic" },
+                            "name": "Staratic",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/062.png"
@@ -1244,7 +1244,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Gurukey" },
+                            "name": "Gurukey",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/063.png"
@@ -1264,7 +1264,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Arrowkin" },
+                            "name": "Arrowkin",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/064.png"
@@ -1284,7 +1284,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Xenoghos" },
+                            "name": "Xenoghos",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/065.png"
@@ -1304,7 +1304,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Heckle" },
+                            "name": "Heckle",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/066.png"
@@ -1324,7 +1324,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Zahnyo" },
+                            "name": "Zahnyo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/067.png"
@@ -1344,7 +1344,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Chowzoom" },
+                            "name": "Chowzoom",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/068.png"
@@ -1364,7 +1364,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Noxvil" },
+                            "name": "Noxvil",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/069.png"
@@ -1384,7 +1384,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Rygon" },
+                            "name": "Rygon",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/070.png"
@@ -1404,7 +1404,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Elemor" },
+                            "name": "Elemor",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/071.png"
@@ -1424,7 +1424,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Viventic" },
+                            "name": "Viventic",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/072.png"
@@ -1444,7 +1444,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Soulyote" },
+                            "name": "Soulyote",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/073.png"
@@ -1464,7 +1464,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Kerukey" },
+                            "name": "Kerukey",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/074.png"
@@ -1484,7 +1484,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Norgon" },
+                            "name": "Norgon",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/075.png"
@@ -1504,7 +1504,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Lytviper" },
+                            "name": "Lytviper",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/076.png"
@@ -1524,7 +1524,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Rosleo" },
+                            "name": "Rosleo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/077.png"
@@ -1544,7 +1544,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Qwell" },
+                            "name": "Qwell",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/078.png"
@@ -1564,7 +1564,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Fubair" },
+                            "name": "Fubair",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/079.png"
@@ -1584,7 +1584,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Magmo" },
+                            "name": "Magmo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/080.png"
@@ -1604,7 +1604,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Prismeetle" },
+                            "name": "Prismeetle",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/081.png"
@@ -1624,7 +1624,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Subursa" },
+                            "name": "Subursa",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/082.png"
@@ -1644,7 +1644,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Dunemo" },
+                            "name": "Dunemo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/083.png"
@@ -1664,7 +1664,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Zenoo" },
+                            "name": "Zenoo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/084.png"
@@ -1684,7 +1684,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Nagi" },
+                            "name": "Nagi",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/085.png"
@@ -1704,7 +1704,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Torva" },
+                            "name": "Torva",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/086.png"
@@ -1724,7 +1724,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Zephyram" },
+                            "name": "Zephyram",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/087.png"
@@ -1744,7 +1744,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Sequoiadon" },
+                            "name": "Sequoiadon",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/088.png"
@@ -1764,7 +1764,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Rocwyler" },
+                            "name": "Rocwyler",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/089.png"
@@ -1784,7 +1784,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Soulynx" },
+                            "name": "Soulynx",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/090.png"
@@ -1804,7 +1804,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Tedge" },
+                            "name": "Tedge",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/091.png"
@@ -1824,7 +1824,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Nimdusko" },
+                            "name": "Nimdusko",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/092.png"
@@ -1844,7 +1844,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Fyerguar" },
+                            "name": "Fyerguar",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/093.png"
@@ -1864,7 +1864,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Phantsea" },
+                            "name": "Phantsea",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/094.png"
@@ -1884,7 +1884,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Komori" },
+                            "name": "Komori",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/095.png"
@@ -1904,7 +1904,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Rolem" },
+                            "name": "Rolem",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/096.png"
@@ -1924,7 +1924,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Ramuit" },
+                            "name": "Ramuit",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/097.png"
@@ -1944,7 +1944,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Frorilla" },
+                            "name": "Frorilla",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/098.png"
@@ -1964,7 +1964,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Splicer" },
+                            "name": "Splicer",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/099.png"
@@ -1984,7 +1984,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Monfire" },
+                            "name": "Monfire",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/100.png"
@@ -2004,7 +2004,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Urshawave" },
+                            "name": "Urshawave",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/101.png"
@@ -2024,7 +2024,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Rhiyu" },
+                            "name": "Rhiyu",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/102.png"
@@ -2044,7 +2044,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Bulfin" },
+                            "name": "Bulfin",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/103.png"
@@ -2064,7 +2064,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Dragairy" },
+                            "name": "Dragairy",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/104.png"
@@ -2084,7 +2084,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Plaeger" },
+                            "name": "Plaeger",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/105.png"
@@ -2104,7 +2104,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Skalizard" },
+                            "name": "Skalizard",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/106.png"
@@ -2124,7 +2124,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Norskyathon" },
+                            "name": "Norskyathon",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/107.png"
@@ -2144,7 +2144,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Powraroot" },
+                            "name": "Powraroot",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/108.png"
@@ -2164,7 +2164,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Juntungo" },
+                            "name": "Juntungo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/109.png"
@@ -2184,7 +2184,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Acceleotah" },
+                            "name": "Acceleotah",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/110.png"
@@ -2204,7 +2204,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Infernix" },
+                            "name": "Infernix",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/111.png"
@@ -2224,7 +2224,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Vargorrah" },
+                            "name": "Vargorrah",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/112.png"
@@ -2244,7 +2244,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Thoryu" },
+                            "name": "Thoryu",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/113.png"
@@ -2264,7 +2264,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Spikanine" },
+                            "name": "Spikanine",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/114.png"
@@ -2284,7 +2284,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Stomdune" },
+                            "name": "Stomdune",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/115.png"
@@ -2304,7 +2304,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Inkara" },
+                            "name": "Inkara",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/116.png"
@@ -2324,7 +2324,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Kodemtha" },
+                            "name": "Kodemtha",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/117.png"
@@ -2344,7 +2344,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Zalimbo" },
+                            "name": "Zalimbo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/118.png"
@@ -2364,7 +2364,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Grazlor" },
+                            "name": "Grazlor",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/119.png"
@@ -2384,7 +2384,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Volgairo" },
+                            "name": "Volgairo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/120.png"
@@ -2404,7 +2404,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Nortica" },
+                            "name": "Nortica",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/121.png"
@@ -2424,7 +2424,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Oseidro" },
+                            "name": "Oseidro",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/122.png"
@@ -2444,7 +2444,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Kaeohkron" },
+                            "name": "Kaeohkron",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/123.png"
@@ -2464,7 +2464,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Massifback" },
+                            "name": "Massifback",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/124.png"
@@ -2484,7 +2484,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Burburnape" },
+                            "name": "Burburnape",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/125.png"
@@ -2504,7 +2504,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Daekuma" },
+                            "name": "Daekuma",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/126.png"
@@ -2524,7 +2524,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Icthoric" },
+                            "name": "Icthoric",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/127.png"
@@ -2544,7 +2544,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Thornotaur" },
+                            "name": "Thornotaur",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/128.png"
@@ -2564,7 +2564,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Mimikor" },
+                            "name": "Mimikor",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/129.png"
@@ -2584,7 +2584,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Grizgroun" },
+                            "name": "Grizgroun",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/130.png"
@@ -2604,7 +2604,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Termahawk" },
+                            "name": "Termahawk",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/131.png"
@@ -2624,7 +2624,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Cykumo" },
+                            "name": "Cykumo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/132.png"
@@ -2644,7 +2644,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Pirocean" },
+                            "name": "Pirocean",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/133.png"
@@ -2664,7 +2664,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Shinmanari" },
+                            "name": "Shinmanari",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/134.png"
@@ -2684,7 +2684,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Burroobair" },
+                            "name": "Burroobair",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/135.png"
@@ -2704,7 +2704,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Howlmax" },
+                            "name": "Howlmax",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/136.png"
@@ -2724,7 +2724,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Oboulga" },
+                            "name": "Oboulga",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/137.png"
@@ -2744,7 +2744,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Makhanmo" },
+                            "name": "Makhanmo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/138.png"
@@ -2764,7 +2764,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Moltugo" },
+                            "name": "Moltugo",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/139.png"
@@ -2784,7 +2784,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Cheearctic" },
+                            "name": "Cheearctic",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/140.png"
@@ -2804,7 +2804,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Wrairthos" },
+                            "name": "Wrairthos",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/141.png"
@@ -2824,7 +2824,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Gahnisho" },
+                            "name": "Gahnisho",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/142.png"
@@ -2844,7 +2844,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Cinbolthrax" },
+                            "name": "Cinbolthrax",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/143.png"
@@ -2864,7 +2864,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Psygorokong" },
+                            "name": "Psygorokong",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/144.png"
@@ -2884,7 +2884,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Caligmium" },
+                            "name": "Caligmium",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/145.png"
@@ -2904,7 +2904,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Sunleozen" },
+                            "name": "Sunleozen",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/146.png"
@@ -2924,7 +2924,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Frightmear" },
+                            "name": "Frightmear",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/147.png"
@@ -2944,7 +2944,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Depthtomb" },
+                            "name": "Depthtomb",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/148.png"
@@ -2964,7 +2964,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Drunagi" },
+                            "name": "Drunagi",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/149.png"
@@ -2984,7 +2984,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Almegra" },
+                            "name": "Almegra",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/150.png"
@@ -3004,7 +3004,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Comera" },
+                            "name": "Comera",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/151.png"
@@ -3024,7 +3024,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Boultorbine" },
+                            "name": "Boultorbine",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/152.png"
@@ -3044,7 +3044,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Eroarno" },
+                            "name": "Eroarno",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/153.png"
@@ -3064,7 +3064,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Monconda" },
+                            "name": "Monconda",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/154.png"
@@ -3084,7 +3084,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Locgrova" },
+                            "name": "Locgrova",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/155.png"
@@ -3104,7 +3104,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Skywindor" },
+                            "name": "Skywindor",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/156.png"
@@ -3124,7 +3124,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Screereap" },
+                            "name": "Screereap",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/157.png"
@@ -3144,7 +3144,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Walanos" },
+                            "name": "Walanos",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/158.png"
@@ -3164,7 +3164,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Volentei" },
+                            "name": "Volentei",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/159.png"
@@ -3184,7 +3184,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Venorat" },
+                            "name": "Venorat",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/160.png"
@@ -3204,7 +3204,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Broot" },
+                            "name": "Broot",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/161.png"
@@ -3224,7 +3224,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Depthadon" },
+                            "name": "Depthadon",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/162.png"
@@ -3244,7 +3244,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Trideptric" },
+                            "name": "Trideptric",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/163.png"
@@ -3264,7 +3264,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Galvigor" },
+                            "name": "Galvigor",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/164.png"
@@ -3284,7 +3284,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Howlgus" },
+                            "name": "Howlgus",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/165.png"
@@ -3304,7 +3304,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Rokusei" },
+                            "name": "Rokusei",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/166.png"
@@ -3324,7 +3324,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Chaoseus" },
+                            "name": "Chaoseus",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/167.png"
@@ -3344,7 +3344,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Shinwin" },
+                            "name": "Shinwin",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/168.png"
@@ -3364,7 +3364,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Tornami" },
+                            "name": "Tornami",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/169.png"
@@ -3384,7 +3384,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Akusa" },
+                            "name": "Akusa",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/170.png"
@@ -3404,7 +3404,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Chronaura" },
+                            "name": "Chronaura",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/171.png"
@@ -3424,7 +3424,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Katanakron" },
+                            "name": "Katanakron",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/172.png"
@@ -3444,7 +3444,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Mershintric" },
+                            "name": "Mershintric",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/173.png"
@@ -3464,7 +3464,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Ficesuta" },
+                            "name": "Ficesuta",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/174.png"
@@ -3484,7 +3484,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Tormortar" },
+                            "name": "Tormortar",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/175.png"
@@ -3504,7 +3504,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Voiriftic" },
+                            "name": "Voiriftic",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/176.png"
@@ -3524,7 +3524,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Frigidnix" },
+                            "name": "Frigidnix",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/177.png"
@@ -3544,7 +3544,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Typerionrex" },
+                            "name": "Typerionrex",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/178.png"
@@ -3564,7 +3564,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Coreberg" },
+                            "name": "Coreberg",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/179.png"
@@ -3584,7 +3584,7 @@
                     "type": "Creature",
                     "face": {
                         "front": {
-                            "name": { "name": "Moonewt" },
+                            "name": "Moonewt",
                             "type": "Creature",
                             "cost": 0,
                             "image": "https://elementalcreaturestcg.com/images/cards/sets/2/fullsize/180.png"
