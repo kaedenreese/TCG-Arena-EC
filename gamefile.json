@@ -1,6 +1,6 @@
 {
   "name": "Elemental Creatures",
-  "menuBackgroundImage": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/menu_background.webp",
+  "menuBackgroundImage": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/main_image.webp",
   "defaultRessources": {
     "backgrounds": [
       "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/banner.webp"
