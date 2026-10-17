@@ -3,7 +3,17 @@
   "menuBackgroundImage": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/main_image.webp",
   "defaultRessources": {
     "backgrounds": [
-      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/banner.webp"
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_001.webp",
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_002.webp",
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_003.webp",
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_004.webp",
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_005.webp",
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_006.webp",
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_007.webp",
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_008.webp",
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_009.webp",
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_010.webp",
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_011.webp"
     ]
   },
   "deckBuilding": {
@@ -53,6 +63,12 @@
           "direction": "column",
           "content": [{ "section": "Frontline" }, {"section":"Sideline"}]
         },
+        "autoPlayFromHand": {
+          "Creature": "Frontline"
+        },
+        "autoPlayFromStack": {
+          "Creature": "Frontline"
+        },
         "sectionsDict": {
           "Frontline": {
             "isHidden": "no",
@@ -72,7 +88,7 @@
             "cardActionShortcut": {
               "action": "MOVE",
               "actionData": {
-                "destination": "Discard"
+                "destination": "Hand"
               }
             }
           }
