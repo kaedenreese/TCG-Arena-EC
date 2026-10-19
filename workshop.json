@@ -8,5 +8,8 @@
         "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/main_image.webp"
     ],
     "descriptionUrl": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/readme.md",
-    "updates": ["Initial Release for Alpha Evolved Set"]
+    "updates": [
+        "1.1.0 New playmat and Starter Decks",
+        "1.0.0 Initial Release for Alpha Evolved Set"
+    ]
 }

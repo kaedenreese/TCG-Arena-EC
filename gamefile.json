@@ -13,8 +13,10 @@
       "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_008.webp",
       "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_009.webp",
       "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_010.webp",
-      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_011.webp"
-    ]
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_011.webp",
+      "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/playmat_012.webp"
+    ],
+    "decksUrl": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/decks.json"
   },
   "deckBuilding": {
     "mainFilters": ["Elements", "Species", "Level"],

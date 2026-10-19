@@ -1,0 +1,315 @@
+
+[
+    {
+        "title": "Discard Madness",
+        "id": "510823a4-f2df-417e-bfbb-9a58f5ff832e",
+        "cardCount": 40,
+        "createdAt": "2026-10-19T15:56:25.865Z",
+        "lastModifiedAt": "2026-10-19T15:59:45.771Z",
+        "game": "Elemental Creatures",
+        "format": [
+            "Constructed"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+            "Creature"
+            ],
+            "Creature": [
+                {
+                    "count": 3,
+                    "id": "2.012"
+                },
+                {
+                    "count": 3,
+                    "id": "2.004"
+                },
+                {
+                    "count": 3,
+                    "id": "2.038"
+                },
+                {
+                    "count": 3,
+                    "id": "2.020"
+                },
+                {
+                    "count": 2,
+                    "id": "2.034"
+                },
+                {
+                    "count": 3,
+                    "id": "2.091"
+                },
+                {
+                    "count": 3,
+                    "id": "2.061"
+                },
+                {
+                    "count": 3,
+                    "id": "2.046"
+                },
+                {
+                    "count": 3,
+                    "id": "2.100"
+                },
+                {
+                    "count": 2,
+                    "id": "2.063"
+                },
+                {
+                    "count": 3,
+                    "id": "2.172"
+                },
+                {
+                    "count": 3,
+                    "id": "2.147"
+                },
+                {
+                    "count": 3,
+                    "id": "2.135"
+                },
+                {
+                    "count": 3,
+                    "id": "2.170"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Electric Ascension",
+        "id": "6bc8c848-8d0e-4531-9b1d-894b6edd402f",
+        "cardCount": 40,
+        "createdAt": "2026-10-19T16:11:29.076Z",
+        "lastModifiedAt": "2026-10-19T16:12:59.126Z",
+        "game": "Elemental Creatures",
+        "format": [
+            "Constructed"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+            "Creature"
+            ],
+            "Creature": [
+                {
+                    "count": 3,
+                    "id": "2.004"
+                },
+                {
+                    "count": 3,
+                    "id": "2.009"
+                },
+                {
+                    "count": 3,
+                    "id": "2.034"
+                },
+                {
+                    "count": 2,
+                    "id": "2.035"
+                },
+                {
+                    "count": 1,
+                    "id": "2.024"
+                },
+                {
+                    "count": 3,
+                    "id": "2.073"
+                },
+                {
+                    "count": 3,
+                    "id": "2.062"
+                },
+                {
+                    "count": 3,
+                    "id": "2.090"
+                },
+                {
+                    "count": 3,
+                    "id": "2.100"
+                },
+                {
+                    "count": 1,
+                    "id": "2.051"
+                },
+                {
+                    "count": 3,
+                    "id": "2.157"
+                },
+                {
+                    "count": 3,
+                    "id": "2.149"
+                },
+                {
+                    "count": 3,
+                    "id": "2.112"
+                },
+                {
+                    "count": 3,
+                    "id": "2.116"
+                },
+                {
+                    "count": 2,
+                    "id": "2.167"
+                },
+                {
+                    "count": 1,
+                    "id": "2.134"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Icy Rocks",
+        "id": "eced8941-392a-4784-930d-606ec112b680",
+        "cardCount": 40,
+        "createdAt": "2026-10-19T16:13:46.445Z",
+        "lastModifiedAt": "2026-10-19T16:15:52.255Z",
+        "game": "Elemental Creatures",
+        "format": [
+            "Constructed"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+            "Creature"
+            ],
+            "Creature": [
+            {
+                "count": 3,
+                "id": "2.032"
+            },
+                {
+                    "count": 3,
+                    "id": "2.045"
+                },
+                {
+                    "count": 3,
+                    "id": "2.040"
+                },
+                {
+                    "count": 3,
+                    "id": "2.029"
+                },
+                {
+                    "count": 3,
+                    "id": "2.006"
+                },
+                {
+                    "count": 3,
+                    "id": "2.048"
+                },
+                {
+                    "count": 3,
+                    "id": "2.056"
+                },
+                {
+                    "count": 3,
+                    "id": "2.083"
+                },
+                {
+                    "count": 3,
+                    "id": "2.060"
+                },
+                {
+                    "count": 3,
+                    "id": "2.098"
+                },
+                {
+                    "count": 3,
+                    "id": "2.125"
+                },
+                {
+                    "count": 3,
+                    "id": "2.175"
+                },
+                {
+                    "count": 3,
+                    "id": "2.138"
+                },
+                {
+                    "count": 1,
+                    "id": "2.163"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Immolation",
+        "id": "6c07e015-3b85-41be-8c3d-5a65cb033336",
+        "cardCount": 42,
+        "createdAt": "2026-10-19T16:16:57.737Z",
+        "lastModifiedAt": "2026-10-19T16:19:00.328Z",
+        "game": "Elemental Creatures",
+        "format": [
+            "Constructed"
+        ],
+        "deckList": {
+            "categoriesOrder": [
+            "Creature"
+            ],
+            "Creature": [
+                {
+                    "count": 3,
+                    "id": "2.015"
+                },
+                {
+                    "count": 2,
+                    "id": "2.011"
+                },
+                {
+                    "count": 3,
+                    "id": "2.009"
+                },
+                {
+                    "count": 3,
+                    "id": "2.031"
+                },
+                {
+                    "count": 3,
+                    "id": "2.018"
+                },
+                {
+                    "count": 3,
+                    "id": "2.061"
+                },
+                {
+                    "count": 2,
+                    "id": "2.080"
+                },
+                {
+                    "count": 3,
+                    "id": "2.100"
+                },
+                {
+                    "count": 2,
+                    "id": "2.086"
+                },
+                {
+                    "count": 3,
+                    "id": "2.093"
+                },
+                {
+                    "count": 2,
+                    "id": "2.046"
+                },
+                {
+                    "count": 3,
+                    "id": "2.153"
+                },
+                {
+                    "count": 3,
+                    "id": "2.175"
+                },
+                {
+                    "count": 2,
+                    "id": "2.155"
+                },
+                {
+                    "count": 2,
+                    "id": "2.130"
+                },
+                {
+                    "count": 3,
+                    "id": "2.160"
+                }
+            ]
+        }
+    }
+]
