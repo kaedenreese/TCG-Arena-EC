@@ -1,0 +1,12 @@
+{
+    "author": "Justin Hartsock",
+    "gameUrl": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/gamefile.json",
+    "tags": "tcg,fantasy,element,simple",
+    "langs": ["en"],
+    "useAiArts": false,
+    "screenshotUrls": [
+        "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/main_image.webp"
+    ],
+    "descriptionUrl": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/readme.md",
+    "updates": ["Initial Release for Alpha Evolved Set"]
+}
