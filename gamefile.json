@@ -59,6 +59,7 @@
         "sharedTurn": false,
         "drawPerTurn": 0
       },
+      "defaultNotes": "Round Power: 0",
       "countersStartingValues": [0],
       "sections": {
         "layout": {
