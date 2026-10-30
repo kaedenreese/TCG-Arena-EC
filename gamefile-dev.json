@@ -85,6 +85,7 @@
             "alignment": "CENTER"
           },
           "Frontline": {
+            "type": "custom",
             "isHidden": "no",
             "height": 15,
             "alignment": "CENTER",
@@ -96,7 +97,7 @@
               }
             },
             "events": {
-                "onUpdate": "await updatePower()"
+                "onPlayersReady": "await updatePower()"
             }
           },
           "Sideline": {
