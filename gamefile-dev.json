@@ -51,14 +51,21 @@
       "defaultNotes": "Round Power: 0",
       "countersStartingValues": [0],
       "sections": {
-        "customSections": [
-          "Power"
-        ],
         "layout": {
           "direction": "column",
           "content": [
             { "section": "Frontline" },
-            { "section": "Sideline" }
+            { "section": "Sideline"},
+            {
+              "section": "Power",
+              "style": {
+                "position": "absolute",
+                "height": "100px",
+                "width": "100px",
+                "left": "0",
+                "bottom": "0"
+              }
+            }
           ]
         },
         "autoPlayFromHand": {
