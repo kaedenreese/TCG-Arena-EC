@@ -61,9 +61,7 @@
               "style": {
                 "position": "absolute",
                 "height": "100px",
-                "width": "100px",
-                "left": "50px",
-                "bottom": "50px"
+                "width": "100px"
               }
             }
           ]
