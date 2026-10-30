@@ -1,6 +1,12 @@
 {
   "name": "Elemental Creatures Dev Version",
   "menuBackgroundImage": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/main_image.webp",
+  "defaultRessources": {
+    "decksUrl": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/decks.json"
+  },
+  "scriptsUrls": [
+    "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/js/updatePower.js"
+  ],
   "deckBuilding": {
     "mainFilters": ["Elements", "Species", "Level"],
     "formats": [
@@ -51,7 +57,11 @@
       "sections": {
         "layout": {
           "direction": "column",
-          "content": [{ "section": "Frontline" }, {"section":"Sideline"}]
+          "content": [
+            { "section": "Frontline" },
+            { "section": "Sideline" },
+            { "section": "Power" }
+          ]
         },
         "autoPlayFromHand": {
           "Creature": "Frontline"
@@ -60,20 +70,34 @@
           "Creature": "Frontline"
         },
         "sectionsDict": {
+          "Power": {
+            "type": "custom",
+            "defaultValue": { "power": 0 },
+            "blueprint": {
+                "type": "div",
+                "children": "{{ game.data.Power.power }} Power"
+            },
+            "isHidden": "no",
+            "height": 10,
+            "alignment": "CENTER"
+          },
           "Frontline": {
             "isHidden": "no",
-            "height": 15,
+            "height": 20,
             "alignment": "CENTER",
             "cardActionShortcut": {
               "action": "MOVE",
               "actionData": {
                 "destination": "Sideline"
               }
+            },
+            "events": {
+                "onUpdate": "await updatePower()"
             }
           },
           "Sideline": {
             "isHidden": "no",
-            "height": 15,
+            "height": 20,
             "alignment": "CENTER",
             "cardActionShortcut": {
               "action": "MOVE",
