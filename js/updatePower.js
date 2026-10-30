@@ -1,4 +1,5 @@
 async function updatePower() {
+    functions.chatLog('Testing');
     const sectionCards = cards.Frontline;
     let totalPower = 0;
     cards.forEach((card) => {
