@@ -1,5 +1,5 @@
 async function updatePower() {
-    functions.chatLog('Testing');
+    functions.chatLog('Do the test');
     const sectionCards = cards.Frontline;
     console.log(sectionCards);
     /*let totalPower = 0;
