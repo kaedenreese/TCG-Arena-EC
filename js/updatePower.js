@@ -1,4 +1,5 @@
 async function updatePower() {
+    console.log(game);
     const sectionCards = cards.Frontline;
     let totalPower = 0;
 

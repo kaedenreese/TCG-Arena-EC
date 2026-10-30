@@ -78,11 +78,14 @@
             "defaultValue": { "power": 0 },
             "blueprint": {
                 "type": "div",
-                "children": "{{ game.data.Power.power }} Power"
+                "children": "{{ game.data.Power.power }} Power Dev"
             },
             "isHidden": "no",
             "height": 10,
-            "alignment": "CENTER"
+            "alignment": "CENTER",
+            "events": {
+                "onUpdate": "await updatePower()"
+            }
           },
           "Frontline": {
             "isHidden": "no",
@@ -94,9 +97,6 @@
               "actionData": {
                 "destination": "Sideline"
               }
-            },
-            "events": {
-                "onUpdate": "await updatePower()"
             }
           },
           "Sideline": {
