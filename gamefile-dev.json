@@ -179,7 +179,7 @@
     }
   },
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/cards.json",
+    "dataUrl": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/cards-dev.json",
     "cardBack": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/back.webp"
   }
 }
