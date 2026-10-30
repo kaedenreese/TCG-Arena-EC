@@ -81,7 +81,7 @@
           },
           "Frontline": {
             "isHidden": "no",
-            "height": 20,
+            "height": 15,
             "alignment": "CENTER",
             "keepTappedNewTurn": true,
             "cardActionShortcut": {
@@ -96,7 +96,7 @@
           },
           "Sideline": {
             "isHidden": "no",
-            "height": 20,
+            "height": 15,
             "alignment": "CENTER",
             "keepTappedNewTurn": true,
             "cardActionShortcut": {
