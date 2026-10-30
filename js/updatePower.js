@@ -3,11 +3,13 @@ async function updatePower() {
     let totalPower = 0;
 
     if(sectionCards === undefined) return;
+    
     for(let i = 0; i < sectionCards.length; i++) {
         const card = sectionCards[i];
         const power = card.Power;
         totalPower += power;
     }
+    console.log(totalPower);
     /*let totalPower = 0;
     cards.forEach((card) => {
         const cardData = functions.getCardData(card);
