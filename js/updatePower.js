@@ -1,12 +1,18 @@
 async function updatePower() {
-    functions.chatLog('Do the test');
     const sectionCards = cards.Frontline;
-    console.log(sectionCards);
+    let totalPower = 0;
+
+    if(sectionCards === undefined) return;
+    for(let i = 0; i < sectionCards.length; i++) {
+        const card = sectionCards[i];
+        const power = card.Power;
+        totalPower += power;
+    }
     /*let totalPower = 0;
     cards.forEach((card) => {
         const cardData = functions.getCardData(card);
         // Tally the totals
         totalPower += cardData.Power;
-    });
-    game.data.Power.power = totalPower;*/
+    });*/
+    game.data.Power.power = totalPower;
 }

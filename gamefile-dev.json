@@ -96,8 +96,7 @@
               }
             },
             "events": {
-                "onCardsEnter": "await updatePower()",
-                "onCardsLeave": "await updatePower()"
+                "onUpdate": "await updatePower()"
             }
           },
           "Sideline": {
