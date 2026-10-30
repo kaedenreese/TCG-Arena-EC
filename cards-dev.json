@@ -16,7 +16,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -38,7 +38,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -60,7 +60,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -82,7 +82,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -104,7 +104,7 @@
                     "Level": 1,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -126,7 +126,7 @@
                     "Level": 1,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -148,7 +148,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -170,7 +170,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -192,7 +192,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -214,7 +214,7 @@
                     "Level": 1,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -236,7 +236,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -258,7 +258,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -280,7 +280,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -302,7 +302,7 @@
                     "Level": 1,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -324,7 +324,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -346,7 +346,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -368,7 +368,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -390,7 +390,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -412,7 +412,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -434,7 +434,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -456,7 +456,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -478,7 +478,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -500,7 +500,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -522,7 +522,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -544,7 +544,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -566,7 +566,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -588,7 +588,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -610,7 +610,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -632,7 +632,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -654,7 +654,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -676,7 +676,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -698,7 +698,7 @@
                     "Level": 2,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -720,7 +720,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -742,7 +742,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -764,7 +764,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -786,7 +786,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -808,7 +808,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -830,7 +830,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -852,7 +852,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -874,7 +874,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -896,7 +896,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -918,7 +918,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -940,7 +940,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -962,7 +962,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -984,7 +984,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1006,7 +1006,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1028,7 +1028,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1050,7 +1050,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1072,7 +1072,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1094,7 +1094,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1116,7 +1116,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1138,7 +1138,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1160,7 +1160,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1182,7 +1182,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1204,7 +1204,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1226,7 +1226,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1248,7 +1248,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1270,7 +1270,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1292,7 +1292,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1314,7 +1314,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1336,7 +1336,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1358,7 +1358,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1380,7 +1380,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1402,7 +1402,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1424,7 +1424,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1446,7 +1446,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1468,7 +1468,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1490,7 +1490,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1512,7 +1512,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1534,7 +1534,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1556,7 +1556,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1578,7 +1578,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1600,7 +1600,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1622,7 +1622,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1644,7 +1644,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1666,7 +1666,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1688,7 +1688,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1710,7 +1710,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1732,7 +1732,7 @@
                     "Level": 3,
                     "Power": 8,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1754,7 +1754,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1776,7 +1776,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1798,7 +1798,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1820,7 +1820,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1842,7 +1842,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1864,7 +1864,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1886,7 +1886,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1908,7 +1908,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1930,7 +1930,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1952,7 +1952,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1974,7 +1974,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -1996,7 +1996,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2018,7 +2018,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2040,7 +2040,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2062,7 +2062,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2084,7 +2084,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2106,7 +2106,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2128,7 +2128,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2150,7 +2150,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2172,7 +2172,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2194,7 +2194,7 @@
                     "Level": 3,
                     "Power": 12,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2216,7 +2216,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2238,7 +2238,7 @@
                     "Level": 3,
                     "Power": 8,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2260,7 +2260,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2282,7 +2282,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2304,7 +2304,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2326,7 +2326,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2348,7 +2348,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2370,7 +2370,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2392,7 +2392,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2414,7 +2414,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2436,7 +2436,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2458,7 +2458,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2480,7 +2480,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2502,7 +2502,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2524,7 +2524,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2546,7 +2546,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2568,7 +2568,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2590,7 +2590,7 @@
                     "Level": 3,
                     "Power": 8,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2612,7 +2612,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2634,7 +2634,7 @@
                     "Level": 3,
                     "Power": 9,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2656,7 +2656,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2678,7 +2678,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2700,7 +2700,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2722,7 +2722,7 @@
                     "Level": 3,
                     "Power": 0,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2744,7 +2744,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2766,7 +2766,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2788,7 +2788,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2810,7 +2810,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2832,7 +2832,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2854,7 +2854,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2876,7 +2876,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2898,7 +2898,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2920,7 +2920,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2942,7 +2942,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2964,7 +2964,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -2986,7 +2986,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3008,7 +3008,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3030,7 +3030,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3052,7 +3052,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3074,7 +3074,7 @@
                     "Level": 3,
                     "Power": 9,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3096,7 +3096,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3118,7 +3118,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3140,7 +3140,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3162,7 +3162,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3184,7 +3184,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3206,7 +3206,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3228,7 +3228,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3250,7 +3250,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3272,7 +3272,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3294,7 +3294,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3316,7 +3316,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3338,7 +3338,7 @@
                     "Level": 3,
                     "Power": 9,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3360,7 +3360,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3382,7 +3382,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3404,7 +3404,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3426,7 +3426,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3448,7 +3448,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3470,7 +3470,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3492,7 +3492,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3514,7 +3514,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3536,7 +3536,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3558,7 +3558,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3580,7 +3580,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3602,7 +3602,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3624,7 +3624,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3646,7 +3646,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3668,7 +3668,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3690,7 +3690,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3712,7 +3712,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3734,7 +3734,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3756,7 +3756,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3778,7 +3778,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3800,7 +3800,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3822,7 +3822,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3844,7 +3844,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3866,7 +3866,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3888,7 +3888,7 @@
                     "Level": 3,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3910,7 +3910,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3932,7 +3932,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3954,7 +3954,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3976,7 +3976,7 @@
                     "Level": 3,
                     "Power": 8,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -3998,7 +3998,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4020,7 +4020,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4042,7 +4042,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4064,7 +4064,7 @@
                     "Level": 3,
                     "Power": 8,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4086,7 +4086,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4108,7 +4108,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4130,7 +4130,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4152,7 +4152,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4174,7 +4174,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4196,7 +4196,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4218,7 +4218,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4240,7 +4240,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4262,7 +4262,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4284,7 +4284,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4306,7 +4306,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4328,7 +4328,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4350,7 +4350,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4372,7 +4372,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4394,7 +4394,7 @@
                     "Level": 1,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4416,7 +4416,7 @@
                     "Level": 1,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4438,7 +4438,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4460,7 +4460,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4482,7 +4482,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4504,7 +4504,7 @@
                     "Level": 1,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4526,7 +4526,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4548,7 +4548,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4570,7 +4570,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4592,7 +4592,7 @@
                     "Level": 1,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4614,7 +4614,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4636,7 +4636,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4658,7 +4658,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4680,7 +4680,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4702,7 +4702,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4724,7 +4724,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4746,7 +4746,7 @@
                     "Level": 1,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4768,7 +4768,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4790,7 +4790,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4812,7 +4812,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4834,7 +4834,7 @@
                     "Level": 1,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4856,7 +4856,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4878,7 +4878,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4900,7 +4900,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4922,7 +4922,7 @@
                     "Level": 1,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4944,7 +4944,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4966,7 +4966,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -4988,7 +4988,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5010,7 +5010,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5032,7 +5032,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5054,7 +5054,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5076,7 +5076,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5098,7 +5098,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5120,7 +5120,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5142,7 +5142,7 @@
                     "Level": 1,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5164,7 +5164,7 @@
                     "Level": 1,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5186,7 +5186,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5208,7 +5208,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5230,7 +5230,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5252,7 +5252,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5274,7 +5274,7 @@
                     "Level": 1,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5296,7 +5296,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5318,7 +5318,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5340,7 +5340,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5362,7 +5362,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5384,7 +5384,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5406,7 +5406,7 @@
                     "Level": 2,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5428,7 +5428,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5450,7 +5450,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5472,7 +5472,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5494,7 +5494,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5516,7 +5516,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5538,7 +5538,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5560,7 +5560,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5582,7 +5582,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5604,7 +5604,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5626,7 +5626,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5648,7 +5648,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5670,7 +5670,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5692,7 +5692,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5714,7 +5714,7 @@
                     "Level": 2,
                     "Power": 0,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5736,7 +5736,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5758,7 +5758,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5780,7 +5780,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5802,7 +5802,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5824,7 +5824,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5846,7 +5846,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5868,7 +5868,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5890,7 +5890,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5912,7 +5912,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5934,7 +5934,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5956,7 +5956,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -5978,7 +5978,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6000,7 +6000,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6022,7 +6022,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6044,7 +6044,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6066,7 +6066,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6088,7 +6088,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6110,7 +6110,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6132,7 +6132,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6154,7 +6154,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6176,7 +6176,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6198,7 +6198,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6220,7 +6220,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6242,7 +6242,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6264,7 +6264,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6286,7 +6286,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6308,7 +6308,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6330,7 +6330,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6352,7 +6352,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6374,7 +6374,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6396,7 +6396,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6418,7 +6418,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6440,7 +6440,7 @@
                     "Level": 2,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6462,7 +6462,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6484,7 +6484,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6506,7 +6506,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6528,7 +6528,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6550,7 +6550,7 @@
                     "Level": 2,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6572,7 +6572,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6594,7 +6594,7 @@
                     "Level": 2,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6616,7 +6616,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6638,7 +6638,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6660,7 +6660,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6682,7 +6682,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6704,7 +6704,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6726,7 +6726,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6748,7 +6748,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6770,7 +6770,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6792,7 +6792,7 @@
                     "Level": 3,
                     "Power": 0,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6814,7 +6814,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6836,7 +6836,7 @@
                     "Level": 3,
                     "Power": 0,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6858,7 +6858,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6880,7 +6880,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6902,7 +6902,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6924,7 +6924,7 @@
                     "Level": 3,
                     "Power": 9,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6946,7 +6946,7 @@
                     "Level": 3,
                     "Power": 9,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6968,7 +6968,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -6990,7 +6990,7 @@
                     "Level": 3,
                     "Power": 0,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7012,7 +7012,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7034,7 +7034,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7056,7 +7056,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7078,7 +7078,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7100,7 +7100,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7122,7 +7122,7 @@
                     "Level": 3,
                     "Power": 0,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7144,7 +7144,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7166,7 +7166,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7188,7 +7188,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7210,7 +7210,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7232,7 +7232,7 @@
                     "Level": 3,
                     "Power": 0,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7254,7 +7254,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7276,7 +7276,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7298,7 +7298,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7320,7 +7320,7 @@
                     "Level": 3,
                     "Power": 8,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7342,7 +7342,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7364,7 +7364,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7386,7 +7386,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7408,7 +7408,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7430,7 +7430,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7452,7 +7452,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7474,7 +7474,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7496,7 +7496,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7518,7 +7518,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7540,7 +7540,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7562,7 +7562,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7584,7 +7584,7 @@
                     "Level": 3,
                     "Power": 12,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7606,7 +7606,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7628,7 +7628,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7650,7 +7650,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7672,7 +7672,7 @@
                     "Level": 3,
                     "Power": 0,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7694,7 +7694,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7716,7 +7716,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7738,7 +7738,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7760,7 +7760,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7782,7 +7782,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7804,7 +7804,7 @@
                     "Level": 3,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7826,7 +7826,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7848,7 +7848,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7870,7 +7870,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7892,7 +7892,7 @@
                     "Level": 3,
                     "Power": 1,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7914,7 +7914,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7936,7 +7936,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7958,7 +7958,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -7980,7 +7980,7 @@
                     "Level": 3,
                     "Power": 6,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -8002,7 +8002,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -8024,7 +8024,7 @@
                     "Level": 3,
                     "Power": 4,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -8046,7 +8046,7 @@
                     "Level": 3,
                     "Power": 5,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -8068,7 +8068,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -8090,7 +8090,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -8112,7 +8112,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -8134,7 +8134,7 @@
                     "Level": 3,
                     "Power": 7,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -8156,7 +8156,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -8178,7 +8178,7 @@
                     "Level": 3,
                     "Power": 2,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -8200,7 +8200,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -8222,7 +8222,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
@@ -8244,7 +8244,7 @@
                     "Level": 3,
                     "Power": 3,
                     "cost": 0,
-                    "legality": {
+                    "_legal": {
                          "FED": true,
                          "AEV": false
                     }
