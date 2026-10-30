@@ -85,7 +85,6 @@
             "alignment": "CENTER"
           },
           "Frontline": {
-            "type": "custom",
             "isHidden": "no",
             "height": 15,
             "alignment": "CENTER",
