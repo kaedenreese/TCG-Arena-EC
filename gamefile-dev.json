@@ -10,8 +10,8 @@
   "deckBuilding": {
     "mainFilters": ["Elements", "Species", "Level"],
     "formats": [
-      { "title": "Constructed", "gameplay": "Constructed" },
-      { "title": "Unlimited", "gameplay": "Unlimited" }
+      { "title": "Constructed", "gameplay": "Constructed", "legalityCode": "AEV" },
+      { "title": "Unlimited", "gameplay": "Unlimited", "legalityCode": "FED" }
     ]
   },
   "deckRulesets": {
