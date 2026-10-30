@@ -97,7 +97,8 @@
               }
             },
             "events": {
-                "onPlayersReady": "await updatePower()"
+                "onCardsEnter": "await updatePower()",
+                "onCardsLeave": "await updatePower()"
             }
           },
           "Sideline": {

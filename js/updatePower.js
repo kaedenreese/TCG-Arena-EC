@@ -1,11 +1,12 @@
 async function updatePower() {
     functions.chatLog('Testing');
     const sectionCards = cards.Frontline;
-    let totalPower = 0;
+    console.log(sectionCards);
+    /*let totalPower = 0;
     cards.forEach((card) => {
         const cardData = functions.getCardData(card);
         // Tally the totals
         totalPower += cardData.Power;
     });
-    game.data.Power.power = totalPower;
+    game.data.Power.power = totalPower;*/
 }
