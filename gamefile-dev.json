@@ -61,7 +61,8 @@
               "style": {
                 "position": "absolute",
                 "height": "100px",
-                "width": "100px"
+                "width": "100px",
+                "backgroundColor": "rgba(200,0,0,0.8)"
               }
             }
           ]
