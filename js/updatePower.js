@@ -1,5 +1,4 @@
 async function updatePower() {
-    console.log('Version 1.2');
     const sectionCards = cards.Frontline;
     let totalPower = 0;
 
