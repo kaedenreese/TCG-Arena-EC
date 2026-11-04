@@ -84,7 +84,7 @@
             "height": 10,
             "alignment": "CENTER",
             "events": {
-                "onUpdate": "await updatePower()"
+                "onCardsUpdate": "await updatePower()"
             }
           },
           "Frontline": {
