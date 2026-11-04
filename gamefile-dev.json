@@ -73,20 +73,6 @@
           "Creature": "Frontline"
         },
         "sectionsDict": {
-          "Power": {
-            "type": "custom",
-            "defaultValue": { "power": 0 },
-            "blueprint": {
-                "type": "div",
-                "children": "{{ game.data.Power.power }} Power Dev"
-            },
-            "isHidden": "no",
-            "height": 10,
-            "alignment": "CENTER",
-            "events": {
-                "onCardsUpdate": "await updatePower()"
-            }
-          },
           "Frontline": {
             "isHidden": "no",
             "height": 15,
@@ -109,6 +95,20 @@
               "actionData": {
                 "destination": "Hand"
               }
+            }
+          },
+          "Power": {
+            "type": "custom",
+            "defaultValue": { "power": 0 },
+            "blueprint": {
+                "type": "div",
+                "children": "{{ game.data.Power.power }} Power Dev"
+            },
+            "isHidden": "no",
+            "height": 10,
+            "alignment": "CENTER",
+            "events": {
+                "onCardsUpdate": "await updatePower()"
             }
           }
         }

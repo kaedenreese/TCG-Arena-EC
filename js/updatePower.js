@@ -6,7 +6,6 @@ async function updatePower() {
     if(sectionCards === undefined) return;
     
     for(let i = 0; i < sectionCards.length; i++) {
-        console.log(sectionCards[i]);
         const card = sectionCards[i];
         const power = card.cardData.Power;
         totalPower += power;
@@ -18,12 +17,5 @@ async function updatePower() {
             totalPower += counters[1].value;
         }
     }
-    console.log(totalPower);
-    /*let totalPower = 0;
-    cards.forEach((card) => {
-        const cardData = functions.getCardData(card);
-        // Tally the totals
-        totalPower += cardData.Power;
-    });*/
     game.data.Power.power = totalPower;
 }
