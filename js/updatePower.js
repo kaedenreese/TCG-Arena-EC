@@ -3,7 +3,10 @@ async function updatePower() {
     const sectionCards = cards.Frontline;
     let totalPower = 0;
 
-    if(sectionCards === undefined) return;
+    if(sectionCards === undefined) {
+        game.data.Power.power = 0;
+        return;
+    }
     
     for(let i = 0; i < sectionCards.length; i++) {
         const card = sectionCards[i];
