@@ -102,7 +102,7 @@
             "defaultValue": { "power": 0 },
             "blueprint": {
                 "type": "div",
-                "children": "{{ game.data.Power.power }} Power Dev"
+                "children": "{{ game.data.Power.power }} Frontline Power"
             },
             "isHidden": "no",
             "height": 10,
