@@ -11,11 +11,11 @@ async function updatePower() {
         const power = card.cardData.Power;
         totalPower += power;
         const counters = card.counters;
-        if(counters[0] != undefined && counters[0] != null) {
-            totalPower += counters[0];
+        if(counters[0].value != undefined && counters[0].value != null) {
+            totalPower += counters[0].value;
         }
-        if(counters[1] != undefined && counters[1] != null) {
-            totalPower += counters[1];
+        if(counters[1].value != undefined && counters[1].value != null) {
+            totalPower += counters[1].value;
         }
     }
     console.log(totalPower);
