@@ -64,7 +64,23 @@
       "sections": {
         "layout": {
           "direction": "column",
-          "content": [{ "section": "Frontline" }, {"section":"Sideline"}]
+          "content": [
+            { "section": "Frontline" },
+            { "section": "Sideline"},
+            {
+              "section": "Power",
+              "style": {
+                "position": "absolute",
+                "border": "1px solid white",
+                "borderRadius": "5px",
+                "fontSize": "1.5rem",
+                "bottom": "-60px",
+                "right": "100px",
+                "padding": "5px",
+                "backgroundColor": "rgba(150,0,0,1.0)"
+              }
+            }
+          ]
         },
         "autoPlayFromHand": {
           "Creature": "Frontline"
@@ -75,8 +91,9 @@
         "sectionsDict": {
           "Frontline": {
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": 15,
             "alignment": "CENTER",
+            "keepTappedNewTurn": true,
             "cardActionShortcut": {
               "action": "MOVE",
               "actionData": {
@@ -86,13 +103,28 @@
           },
           "Sideline": {
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": 15,
             "alignment": "CENTER",
+            "keepTappedNewTurn": true,
             "cardActionShortcut": {
               "action": "MOVE",
               "actionData": {
                 "destination": "Hand"
               }
+            }
+          },
+          "Power": {
+            "type": "custom",
+            "defaultValue": { "power": 0 },
+            "blueprint": {
+                "type": "div",
+                "children": "{{ game.data.Power.power }} Frontline Power"
+            },
+            "isHidden": "no",
+            "height": 10,
+            "alignment": "CENTER",
+            "events": {
+                "onCardsUpdate": "await updatePower()"
             }
           }
         }
