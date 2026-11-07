@@ -14,10 +14,9 @@
                     "Species": "Repticel",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.002": {
                     "id": "2.002",
@@ -34,10 +33,9 @@
                     "Species": "Brutaggo",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.003": {
                     "id": "2.003",
@@ -54,10 +52,9 @@
                     "Species": "Leonaught",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.004": {
                     "id": "2.004",
@@ -74,10 +71,9 @@
                     "Species": "Daemayem",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.005": {
                     "id": "2.005",
@@ -94,10 +90,9 @@
                     "Species": "Mernorca",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.006": {
                     "id": "2.006",
@@ -114,10 +109,9 @@
                     "Species": "Serpenlisk",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.007": {
                     "id": "2.007",
@@ -134,10 +128,9 @@
                     "Species": "Xenokron",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.008": {
                     "id": "2.008",
@@ -154,10 +147,9 @@
                     "Species": "Nesavian",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.009": {
                     "id": "2.009",
@@ -174,10 +166,9 @@
                     "Species": "Kydrakin",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.010": {
                     "id": "2.010",
@@ -194,10 +185,9 @@
                     "Species": "Dominaught",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.011": {
                     "id": "2.011",
@@ -214,10 +204,9 @@
                     "Species": "Verminkor",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.012": {
                     "id": "2.012",
@@ -234,10 +223,9 @@
                     "Species": "Ursapex",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.013": {
                     "id": "2.013",
@@ -254,10 +242,9 @@
                     "Species": "Taurosorn",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.014": {
                     "id": "2.014",
@@ -274,10 +261,9 @@
                     "Species": "Felgadon",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.015": {
                     "id": "2.015",
@@ -294,10 +280,9 @@
                     "Species": "Tortanite",
                     "Elements": ["Omniment"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.016": {
                     "id": "2.016",
@@ -314,10 +299,9 @@
                     "Species": "Repticel",
                     "Elements": ["Water"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.017": {
                     "id": "2.017",
@@ -334,10 +318,9 @@
                     "Species": "Brutaggo",
                     "Elements": ["Nature"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.018": {
                     "id": "2.018",
@@ -354,10 +337,9 @@
                     "Species": "Leonaught",
                     "Elements": ["Fire"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.019": {
                     "id": "2.019",
@@ -374,10 +356,9 @@
                     "Species": "Daemayem",
                     "Elements": ["Spirit"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.020": {
                     "id": "2.020",
@@ -394,10 +375,9 @@
                     "Species": "Mernorca",
                     "Elements": ["Spirit"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.021": {
                     "id": "2.021",
@@ -414,10 +394,9 @@
                     "Species": "Serpenlisk",
                     "Elements": ["Electric"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.022": {
                     "id": "2.022",
@@ -434,10 +413,9 @@
                     "Species": "Xenokron",
                     "Elements": ["Dark"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.023": {
                     "id": "2.023",
@@ -454,10 +432,9 @@
                     "Species": "Nesavian",
                     "Elements": ["Air"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.024": {
                     "id": "2.024",
@@ -474,10 +451,9 @@
                     "Species": "Kydrakin",
                     "Elements": ["Fire"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.025": {
                     "id": "2.025",
@@ -494,10 +470,9 @@
                     "Species": "Dominaught",
                     "Elements": ["Dark"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.026": {
                     "id": "2.026",
@@ -514,10 +489,9 @@
                     "Species": "Verminkor",
                     "Elements": ["Electric"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.027": {
                     "id": "2.027",
@@ -534,10 +508,9 @@
                     "Species": "Ursapex",
                     "Elements": ["Air"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.028": {
                     "id": "2.028",
@@ -554,10 +527,9 @@
                     "Species": "Taurosorn",
                     "Elements": ["Rock"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.029": {
                     "id": "2.029",
@@ -574,10 +546,9 @@
                     "Species": "Felgadon",
                     "Elements": ["Ice"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.030": {
                     "id": "2.030",
@@ -594,10 +565,9 @@
                     "Species": "Tortanite",
                     "Elements": ["Water"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.031": {
                     "id": "2.031",
@@ -614,10 +584,9 @@
                     "Species": "Repticel",
                     "Elements": ["Nature","Fire"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.032": {
                     "id": "2.032",
@@ -634,10 +603,9 @@
                     "Species": "Brutaggo",
                     "Elements": ["Rock","Ice"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.033": {
                     "id": "2.033",
@@ -654,10 +622,9 @@
                     "Species": "Leonaught",
                     "Elements": ["Dark","Nature"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.034": {
                     "id": "2.034",
@@ -674,10 +641,9 @@
                     "Species": "Daemayem",
                     "Elements": ["Fire","Electric"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.035": {
                     "id": "2.035",
@@ -694,10 +660,9 @@
                     "Species": "Mernorca",
                     "Elements": ["Electric","Water"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.036": {
                     "id": "2.036",
@@ -714,10 +679,9 @@
                     "Species": "Serpenlisk",
                     "Elements": ["Fire","Water"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.037": {
                     "id": "2.037",
@@ -734,10 +698,9 @@
                     "Species": "Xenokron",
                     "Elements": ["Nature","Electric"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.038": {
                     "id": "2.038",
@@ -754,10 +717,9 @@
                     "Species": "Nesavian",
                     "Elements": ["Spirit","Water"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.039": {
                     "id": "2.039",
@@ -774,10 +736,9 @@
                     "Species": "Kydrakin",
                     "Elements": ["Dark","Ice"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.040": {
                     "id": "2.040",
@@ -794,10 +755,9 @@
                     "Species": "Dominaught",
                     "Elements": ["Spirit","Ice"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.041": {
                     "id": "2.041",
@@ -814,10 +774,9 @@
                     "Species": "Verminkor",
                     "Elements": ["Dark","Air"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.042": {
                     "id": "2.042",
@@ -834,10 +793,9 @@
                     "Species": "Ursapex",
                     "Elements": ["Nature","Rock"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.043": {
                     "id": "2.043",
@@ -854,10 +812,9 @@
                     "Species": "Taurosorn",
                     "Elements": ["Water","Air"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.044": {
                     "id": "2.044",
@@ -874,10 +831,9 @@
                     "Species": "Felgadon",
                     "Elements": ["Nature","Water"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.045": {
                     "id": "2.045",
@@ -894,10 +850,9 @@
                     "Species": "Tortanite",
                     "Elements": ["Fire","Rock"],
                     "Level": 1,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.046": {
                     "id": "2.046",
@@ -914,10 +869,9 @@
                     "Species": "Repticel",
                     "Elements": ["Nature"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.047": {
                     "id": "2.047",
@@ -934,10 +888,9 @@
                     "Species": "Taurosorn",
                     "Elements": ["Fire"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.048": {
                     "id": "2.048",
@@ -954,10 +907,9 @@
                     "Species": "Brutaggo",
                     "Elements": ["Rock"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.049": {
                     "id": "2.049",
@@ -974,10 +926,9 @@
                     "Species": "Mernorca",
                     "Elements": ["Water"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.050": {
                     "id": "2.050",
@@ -994,10 +945,9 @@
                     "Species": "Serpenlisk",
                     "Elements": ["Air"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.051": {
                     "id": "2.051",
@@ -1014,10 +964,9 @@
                     "Species": "Xenokron",
                     "Elements": ["Electric"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.052": {
                     "id": "2.052",
@@ -1034,10 +983,9 @@
                     "Species": "Leonaught",
                     "Elements": ["Ice"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.053": {
                     "id": "2.053",
@@ -1054,10 +1002,9 @@
                     "Species": "Verminkor",
                     "Elements": ["Spirit"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.054": {
                     "id": "2.054",
@@ -1074,10 +1021,9 @@
                     "Species": "Dominaught",
                     "Elements": ["Dark"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.055": {
                     "id": "2.055",
@@ -1094,10 +1040,9 @@
                     "Species": "Tortanite",
                     "Elements": ["Air"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.056": {
                     "id": "2.056",
@@ -1114,10 +1059,9 @@
                     "Species": "Mernorca",
                     "Elements": ["Rock","Dark"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.057": {
                     "id": "2.057",
@@ -1134,10 +1078,9 @@
                     "Species": "Kydrakin",
                     "Elements": ["Fire"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.058": {
                     "id": "2.058",
@@ -1154,10 +1097,9 @@
                     "Species": "Daemayem",
                     "Elements": ["Rock","Ice"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.059": {
                     "id": "2.059",
@@ -1174,10 +1116,9 @@
                     "Species": "Repticel",
                     "Elements": ["Water"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.060": {
                     "id": "2.060",
@@ -1194,10 +1135,9 @@
                     "Species": "Tortanite",
                     "Elements": ["Dark","Ice"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.061": {
                     "id": "2.061",
@@ -1214,10 +1154,9 @@
                     "Species": "Nesavian",
                     "Elements": ["Fire","Nature"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.062": {
                     "id": "2.062",
@@ -1234,10 +1173,9 @@
                     "Species": "Verminkor",
                     "Elements": ["Electric"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.063": {
                     "id": "2.063",
@@ -1254,10 +1192,9 @@
                     "Species": "Brutaggo",
                     "Elements": ["Spirit"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.064": {
                     "id": "2.064",
@@ -1274,10 +1211,9 @@
                     "Species": "Nesavian",
                     "Elements": ["Air"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.065": {
                     "id": "2.065",
@@ -1294,10 +1230,9 @@
                     "Species": "Xenokron",
                     "Elements": ["Water","Spirit"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 0,
+                    "cost": 0
+                    
                 },
 "2.066": {
                     "id": "2.066",
@@ -1314,10 +1249,9 @@
                     "Species": "Daemayem",
                     "Elements": ["Fire"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.067": {
                     "id": "2.067",
@@ -1334,10 +1268,9 @@
                     "Species": "Mernorca",
                     "Elements": ["Spirit"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.068": {
                     "id": "2.068",
@@ -1354,10 +1287,9 @@
                     "Species": "Dominaught",
                     "Elements": ["Air","Electric"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.069": {
                     "id": "2.069",
@@ -1374,10 +1306,9 @@
                     "Species": "Daemayem",
                     "Elements": ["Dark"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.070": {
                     "id": "2.070",
@@ -1394,10 +1325,9 @@
                     "Species": "Kydrakin",
                     "Elements": ["Electric"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.071": {
                     "id": "2.071",
@@ -1414,10 +1344,9 @@
                     "Species": "Felgadon",
                     "Elements": ["Rock"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.072": {
                     "id": "2.072",
@@ -1434,10 +1363,9 @@
                     "Species": "Serpenlisk",
                     "Elements": ["Nature","Ice"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.073": {
                     "id": "2.073",
@@ -1454,10 +1382,9 @@
                     "Species": "Dominaught",
                     "Elements": ["Spirit"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.074": {
                     "id": "2.074",
@@ -1474,10 +1401,9 @@
                     "Species": "Brutaggo",
                     "Elements": ["Fire","Water"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.075": {
                     "id": "2.075",
@@ -1494,10 +1420,9 @@
                     "Species": "Kydrakin",
                     "Elements": ["Ice"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.076": {
                     "id": "2.076",
@@ -1514,10 +1439,9 @@
                     "Species": "Serpenlisk",
                     "Elements": ["Electric"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.077": {
                     "id": "2.077",
@@ -1534,10 +1458,9 @@
                     "Species": "Leonaught",
                     "Elements": ["Nature"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.078": {
                     "id": "2.078",
@@ -1554,10 +1477,9 @@
                     "Species": "Nesavian",
                     "Elements": ["Water"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.079": {
                     "id": "2.079",
@@ -1574,10 +1496,9 @@
                     "Species": "Ursapex",
                     "Elements": ["Air"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.080": {
                     "id": "2.080",
@@ -1594,10 +1515,9 @@
                     "Species": "Verminkor",
                     "Elements": ["Fire","Rock"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.081": {
                     "id": "2.081",
@@ -1614,10 +1534,9 @@
                     "Species": "Xenokron",
                     "Elements": ["Nature"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.082": {
                     "id": "2.082",
@@ -1634,10 +1553,9 @@
                     "Species": "Ursapex",
                     "Elements": ["Ice"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.083": {
                     "id": "2.083",
@@ -1654,10 +1572,9 @@
                     "Species": "Felgadon",
                     "Elements": ["Air","Rock"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.084": {
                     "id": "2.084",
@@ -1674,10 +1591,9 @@
                     "Species": "Nesavian",
                     "Elements": ["Spirit"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.085": {
                     "id": "2.085",
@@ -1694,10 +1610,9 @@
                     "Species": "Serpenlisk",
                     "Elements": ["Water"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.086": {
                     "id": "2.086",
@@ -1714,10 +1629,9 @@
                     "Species": "Tortanite",
                     "Elements": ["Fire"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.087": {
                     "id": "2.087",
@@ -1734,10 +1648,9 @@
                     "Species": "Taurosorn",
                     "Elements": ["Air"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.088": {
                     "id": "2.088",
@@ -1754,10 +1667,9 @@
                     "Species": "Felgadon",
                     "Elements": ["Nature"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.089": {
                     "id": "2.089",
@@ -1774,10 +1686,9 @@
                     "Species": "Dominaught",
                     "Elements": ["Rock"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.090": {
                     "id": "2.090",
@@ -1794,10 +1705,9 @@
                     "Species": "Leonaught",
                     "Elements": ["Electric","Spirit"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.091": {
                     "id": "2.091",
@@ -1814,10 +1724,9 @@
                     "Species": "Ursapex",
                     "Elements": ["Nature"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.092": {
                     "id": "2.092",
@@ -1834,10 +1743,9 @@
                     "Species": "Repticel",
                     "Elements": ["Air","Dark"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.093": {
                     "id": "2.093",
@@ -1854,10 +1762,9 @@
                     "Species": "Leonaught",
                     "Elements": ["Fire"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.094": {
                     "id": "2.094",
@@ -1874,10 +1781,9 @@
                     "Species": "Felgadon",
                     "Elements": ["Water"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.095": {
                     "id": "2.095",
@@ -1894,10 +1800,9 @@
                     "Species": "Daemayem",
                     "Elements": ["Spirit"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.096": {
                     "id": "2.096",
@@ -1914,10 +1819,9 @@
                     "Species": "Tortanite",
                     "Elements": ["Rock"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.097": {
                     "id": "2.097",
@@ -1934,10 +1838,9 @@
                     "Species": "Taurosorn",
                     "Elements": ["Electric","Nature"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.098": {
                     "id": "2.098",
@@ -1954,10 +1857,9 @@
                     "Species": "Brutaggo",
                     "Elements": ["Ice"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.099": {
                     "id": "2.099",
@@ -1974,10 +1876,9 @@
                     "Species": "Xenokron",
                     "Elements": ["Air"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.100": {
                     "id": "2.100",
@@ -1994,10 +1895,9 @@
                     "Species": "Repticel",
                     "Elements": ["Fire"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.101": {
                     "id": "2.101",
@@ -2014,10 +1914,9 @@
                     "Species": "Ursapex",
                     "Elements": ["Water","Dark"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.102": {
                     "id": "2.102",
@@ -2034,10 +1933,9 @@
                     "Species": "Mernorca",
                     "Elements": ["Ice"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.103": {
                     "id": "2.103",
@@ -2054,10 +1952,9 @@
                     "Species": "Taurosorn",
                     "Elements": ["Water"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.104": {
                     "id": "2.104",
@@ -2074,10 +1971,9 @@
                     "Species": "Kydrakin",
                     "Elements": ["Air","Spirit"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.105": {
                     "id": "2.105",
@@ -2094,10 +1990,9 @@
                     "Species": "Verminkor",
                     "Elements": ["Dark"],
                     "Level": 2,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.106": {
                     "id": "2.106",
@@ -2114,10 +2009,9 @@
                     "Species": "Repticel",
                     "Elements": ["Fire","Water"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 7,
+                    "cost": 0
+                    
                 },
 "2.107": {
                     "id": "2.107",
@@ -2134,10 +2028,9 @@
                     "Species": "Serpenlisk",
                     "Elements": ["Air","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 7,
+                    "cost": 0
+                    
                 },
 "2.108": {
                     "id": "2.108",
@@ -2154,10 +2047,9 @@
                     "Species": "Verminkor",
                     "Elements": ["Electric","Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.109": {
                     "id": "2.109",
@@ -2174,10 +2066,9 @@
                     "Species": "Brutaggo",
                     "Elements": ["Nature","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 5,
+                    "cost": 0
+                    
                 },
 "2.110": {
                     "id": "2.110",
@@ -2194,10 +2085,9 @@
                     "Species": "Leonaught",
                     "Elements": ["Electric"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.111": {
                     "id": "2.111",
@@ -2214,10 +2104,9 @@
                     "Species": "Nesavian",
                     "Elements": ["Fire","Air"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.112": {
                     "id": "2.112",
@@ -2234,10 +2123,9 @@
                     "Species": "Daemayem",
                     "Elements": ["Fire","Electric","Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.113": {
                     "id": "2.113",
@@ -2254,10 +2142,9 @@
                     "Species": "Mernorca",
                     "Elements": ["Electric","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 7,
+                    "cost": 0
+                    
                 },
 "2.114": {
                     "id": "2.114",
@@ -2274,10 +2161,9 @@
                     "Species": "Dominaught",
                     "Elements": ["Rock","Dark","Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 0,
+                    "cost": 0
+                    
                 },
 "2.115": {
                     "id": "2.115",
@@ -2294,10 +2180,9 @@
                     "Species": "Felgadon",
                     "Elements": ["Air","Rock"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.116": {
                     "id": "2.116",
@@ -2314,10 +2199,9 @@
                     "Species": "Xenokron",
                     "Elements": ["Air","Electric","Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 0,
+                    "cost": 0
+                    
                 },
 "2.117": {
                     "id": "2.117",
@@ -2334,10 +2218,9 @@
                     "Species": "Serpenlisk",
                     "Elements": ["Fire","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 6,
+                    "cost": 0
+                    
                 },
 "2.118": {
                     "id": "2.118",
@@ -2354,10 +2237,9 @@
                     "Species": "Dominaught",
                     "Elements": ["Dark","Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.119": {
                     "id": "2.119",
@@ -2374,10 +2256,9 @@
                     "Species": "Ursapex",
                     "Elements": ["Nature","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 5,
+                    "cost": 0
+                    
                 },
 "2.120": {
                     "id": "2.120",
@@ -2394,10 +2275,9 @@
                     "Species": "Kydrakin",
                     "Elements": ["Fire","Air"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 9,
+                    "cost": 0
+                    
                 },
 "2.121": {
                     "id": "2.121",
@@ -2414,10 +2294,9 @@
                     "Species": "Mernorca",
                     "Elements": ["Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 9,
+                    "cost": 0
+                    
                 },
 "2.122": {
                     "id": "2.122",
@@ -2434,10 +2313,9 @@
                     "Species": "Taurosorn",
                     "Elements": ["Water","Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.123": {
                     "id": "2.123",
@@ -2454,10 +2332,9 @@
                     "Species": "Xenokron",
                     "Elements": ["Dark"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 0,
+                    "cost": 0
+                    
                 },
 "2.124": {
                     "id": "2.124",
@@ -2474,10 +2351,9 @@
                     "Species": "Ursapex",
                     "Elements": ["Rock"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.125": {
                     "id": "2.125",
@@ -2494,10 +2370,9 @@
                     "Species": "Brutaggo",
                     "Elements": ["Fire","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 5,
+                    "cost": 0
+                    
                 },
 "2.126": {
                     "id": "2.126",
@@ -2514,10 +2389,9 @@
                     "Species": "Daemayem",
                     "Elements": ["Dark","Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 6,
+                    "cost": 0
+                    
                 },
 "2.127": {
                     "id": "2.127",
@@ -2534,10 +2408,9 @@
                     "Species": "Xenokron",
                     "Elements": ["Electric","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.128": {
                     "id": "2.128",
@@ -2554,10 +2427,9 @@
                     "Species": "Taurosorn",
                     "Elements": ["Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.129": {
                     "id": "2.129",
@@ -2574,10 +2446,9 @@
                     "Species": "Verminkor",
                     "Elements": ["Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 0,
+                    "cost": 0
+                    
                 },
 "2.130": {
                     "id": "2.130",
@@ -2594,10 +2465,9 @@
                     "Species": "Ursapex",
                     "Elements": ["Rock","Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 6,
+                    "cost": 0
+                    
                 },
 "2.131": {
                     "id": "2.131",
@@ -2614,10 +2484,9 @@
                     "Species": "Nesavian",
                     "Elements": ["Water","Dark","Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.132": {
                     "id": "2.132",
@@ -2634,10 +2503,9 @@
                     "Species": "Tortanite",
                     "Elements": ["Air","Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.133": {
                     "id": "2.133",
@@ -2654,10 +2522,9 @@
                     "Species": "Taurosorn",
                     "Elements": ["Fire","Water"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.134": {
                     "id": "2.134",
@@ -2674,10 +2541,9 @@
                     "Species": "Serpenlisk",
                     "Elements": ["Electric","Dark"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 0,
+                    "cost": 0
+                    
                 },
 "2.135": {
                     "id": "2.135",
@@ -2694,10 +2560,9 @@
                     "Species": "Ursapex",
                     "Elements": ["Air","Nature","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.136": {
                     "id": "2.136",
@@ -2714,10 +2579,9 @@
                     "Species": "Dominaught",
                     "Elements": ["Electric"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.137": {
                     "id": "2.137",
@@ -2734,10 +2598,9 @@
                     "Species": "Taurosorn",
                     "Elements": ["Fire","Rock"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 6,
+                    "cost": 0
+                    
                 },
 "2.138": {
                     "id": "2.138",
@@ -2754,10 +2617,9 @@
                     "Species": "Felgadon",
                     "Elements": ["Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 8,
+                    "cost": 0
+                    
                 },
 "2.139": {
                     "id": "2.139",
@@ -2774,10 +2636,9 @@
                     "Species": "Brutaggo",
                     "Elements": ["Fire"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.140": {
                     "id": "2.140",
@@ -2794,10 +2655,9 @@
                     "Species": "Leonaught",
                     "Elements": ["Electric","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.141": {
                     "id": "2.141",
@@ -2814,10 +2674,9 @@
                     "Species": "Daemayem",
                     "Elements": ["Air"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.142": {
                     "id": "2.142",
@@ -2834,10 +2693,9 @@
                     "Species": "Felgadon",
                     "Elements": ["Spirit","Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.143": {
                     "id": "2.143",
@@ -2854,10 +2712,9 @@
                     "Species": "Xenokron",
                     "Elements": ["Fire","Electric"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.144": {
                     "id": "2.144",
@@ -2874,10 +2731,9 @@
                     "Species": "Brutaggo",
                     "Elements": ["Rock","Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.145": {
                     "id": "2.145",
@@ -2894,10 +2750,9 @@
                     "Species": "Dominaught",
                     "Elements": ["Fire","Dark"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 6,
+                    "cost": 0
+                    
                 },
 "2.146": {
                     "id": "2.146",
@@ -2914,10 +2769,9 @@
                     "Species": "Leonaught",
                     "Elements": ["Fire","Dark","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.147": {
                     "id": "2.147",
@@ -2934,10 +2788,9 @@
                     "Species": "Ursapex",
                     "Elements": ["Spirit","Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 5,
+                    "cost": 0
+                    
                 },
 "2.148": {
                     "id": "2.148",
@@ -2954,10 +2807,9 @@
                     "Species": "Taurosorn",
                     "Elements": ["Rock","Water","Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.149": {
                     "id": "2.149",
@@ -2974,10 +2826,9 @@
                     "Species": "Kydrakin",
                     "Elements": ["Water","Electric"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 5,
+                    "cost": 0
+                    
                 },
 "2.150": {
                     "id": "2.150",
@@ -2994,10 +2845,9 @@
                     "Species": "Repticel",
                     "Elements": ["Water","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 12,
+                    "cost": 0
+                    
                 },
 "2.151": {
                     "id": "2.151",
@@ -3014,10 +2864,9 @@
                     "Species": "Serpenlisk",
                     "Elements": ["Fire","Air","Water"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 7,
+                    "cost": 0
+                    
                 },
 "2.152": {
                     "id": "2.152",
@@ -3034,10 +2883,9 @@
                     "Species": "Tortanite",
                     "Elements": ["Air","Rock"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 5,
+                    "cost": 0
+                    
                 },
 "2.153": {
                     "id": "2.153",
@@ -3054,10 +2902,9 @@
                     "Species": "Leonaught",
                     "Elements": ["Fire","Rock"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.154": {
                     "id": "2.154",
@@ -3074,10 +2921,9 @@
                     "Species": "Serpenlisk",
                     "Elements": ["Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 0,
+                    "cost": 0
+                    
                 },
 "2.155": {
                     "id": "2.155",
@@ -3094,10 +2940,9 @@
                     "Species": "Repticel",
                     "Elements": ["Fire","Water","Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.156": {
                     "id": "2.156",
@@ -3114,10 +2959,9 @@
                     "Species": "Nesavian",
                     "Elements": ["Air"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.157": {
                     "id": "2.157",
@@ -3134,10 +2978,9 @@
                     "Species": "Daemayem",
                     "Elements": ["Electric","Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.158": {
                     "id": "2.158",
@@ -3154,10 +2997,9 @@
                     "Species": "Mernorca",
                     "Elements": ["Water","Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.159": {
                     "id": "2.159",
@@ -3174,10 +3016,9 @@
                     "Species": "Kydrakin",
                     "Elements": ["Fire"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 6,
+                    "cost": 0
+                    
                 },
 "2.160": {
                     "id": "2.160",
@@ -3194,10 +3035,9 @@
                     "Species": "Verminkor",
                     "Elements": ["Dark","Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.161": {
                     "id": "2.161",
@@ -3214,10 +3054,9 @@
                     "Species": "Brutaggo",
                     "Elements": ["Rock","Nature","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 6,
+                    "cost": 0
+                    
                 },
 "2.162": {
                     "id": "2.162",
@@ -3234,10 +3073,9 @@
                     "Species": "Felgadon",
                     "Elements": ["Water","Dark"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 5,
+                    "cost": 0
+                    
                 },
 "2.163": {
                     "id": "2.163",
@@ -3254,10 +3092,9 @@
                     "Species": "Mernorca",
                     "Elements": ["Water","Electric"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 6,
+                    "cost": 0
+                    
                 },
 "2.164": {
                     "id": "2.164",
@@ -3274,10 +3111,9 @@
                     "Species": "Felgadon",
                     "Elements": ["Air","Rock","Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 1,
+                    "cost": 0
+                    
                 },
 "2.165": {
                     "id": "2.165",
@@ -3294,10 +3130,9 @@
                     "Species": "Dominaught",
                     "Elements": ["Air","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 5,
+                    "cost": 0
+                    
                 },
 "2.166": {
                     "id": "2.166",
@@ -3314,10 +3149,9 @@
                     "Species": "Nesavian",
                     "Elements": ["Air","Dark"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 6,
+                    "cost": 0
+                    
                 },
 "2.167": {
                     "id": "2.167",
@@ -3334,10 +3168,9 @@
                     "Species": "Daemayem",
                     "Elements": ["Fire","Electric"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.168": {
                     "id": "2.168",
@@ -3354,10 +3187,9 @@
                     "Species": "Verminkor",
                     "Elements": ["Air","Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 6,
+                    "cost": 0
+                    
                 },
 "2.169": {
                     "id": "2.169",
@@ -3374,10 +3206,9 @@
                     "Species": "Tortanite",
                     "Elements": ["Water"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 7,
+                    "cost": 0
+                    
                 },
 "2.170": {
                     "id": "2.170",
@@ -3394,10 +3225,9 @@
                     "Species": "Leonaught",
                     "Elements": ["Dark","Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 4,
+                    "cost": 0
+                    
                 },
 "2.171": {
                     "id": "2.171",
@@ -3414,10 +3244,9 @@
                     "Species": "Kydrakin",
                     "Elements": ["Electric","Dark","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 5,
+                    "cost": 0
+                    
                 },
 "2.172": {
                     "id": "2.172",
@@ -3434,10 +3263,9 @@
                     "Species": "Xenokron",
                     "Elements": ["Dark","Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.173": {
                     "id": "2.173",
@@ -3454,10 +3282,9 @@
                     "Species": "Mernorca",
                     "Elements": ["Water","Electric","Spirit"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.174": {
                     "id": "2.174",
@@ -3474,10 +3301,9 @@
                     "Species": "Kydrakin",
                     "Elements": ["Fire","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.175": {
                     "id": "2.175",
@@ -3494,10 +3320,9 @@
                     "Species": "Tortanite",
                     "Elements": ["Fire","Water"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 7,
+                    "cost": 0
+                    
                 },
 "2.176": {
                     "id": "2.176",
@@ -3514,10 +3339,9 @@
                     "Species": "Verminkor",
                     "Elements": ["Air","Electric","Dark"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.177": {
                     "id": "2.177",
@@ -3534,10 +3358,9 @@
                     "Species": "Nesavian",
                     "Elements": ["Air","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 2,
+                    "cost": 0
+                    
                 },
 "2.178": {
                     "id": "2.178",
@@ -3554,10 +3377,9 @@
                     "Species": "Repticel",
                     "Elements": ["Fire","Nature"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.179": {
                     "id": "2.179",
@@ -3574,10 +3396,9 @@
                     "Species": "Tortanite",
                     "Elements": ["Fire","Rock","Ice"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 },
 "2.180": {
                     "id": "2.180",
@@ -3594,8 +3415,7 @@
                     "Species": "Repticel",
                     "Elements": ["Dark"],
                     "Level": 3,
-                    "cost": 0,
-                    "legality": {
-                         "STD": true
-                    }
+                    "Power": 3,
+                    "cost": 0
+                    
                 }}
