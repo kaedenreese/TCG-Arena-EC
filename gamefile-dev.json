@@ -60,8 +60,10 @@
               "section": "Power",
               "style": {
                 "position": "absolute",
-                "height": "100px",
-                "width": "100px",
+                "height": "80px",
+                "width": "250px",
+                "top": "100px",
+                "right": "100px",
                 "backgroundColor": "rgba(200,0,0,0.8)"
               }
             }
