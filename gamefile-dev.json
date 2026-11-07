@@ -62,9 +62,10 @@
                 "position": "absolute",
                 "height": "80px",
                 "width": "250px",
-                "top": "100px",
-                "right": "100px",
-                "backgroundColor": "rgba(200,0,0,0.8)"
+                "fontSize": "2rem",
+                "top": "-10px",
+                "right": "0px",
+                "backgroundColor": "rgba(150,0,0,0.7)"
               }
             }
           ]
