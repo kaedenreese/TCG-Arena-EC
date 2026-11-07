@@ -63,7 +63,7 @@
                 "border": "1px solid white",
                 "borderRadius": "5px",
                 "fontSize": "2rem",
-                "bottom": "-20px",
+                "bottom": "-60px",
                 "right": "100px",
                 "padding": "5px",
                 "backgroundColor": "rgba(150,0,0,1.0)"
