@@ -62,7 +62,7 @@
                 "position": "absolute",
                 "border": "1px solid white",
                 "borderRadius": "5px",
-                "fontSize": "2rem",
+                "fontSize": "1.5rem",
                 "bottom": "-60px",
                 "right": "100px",
                 "padding": "5px",
