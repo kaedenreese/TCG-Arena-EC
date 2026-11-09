@@ -5,7 +5,7 @@
     "decksUrl": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/decks.json"
   },
   "scriptsUrls": [
-    "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/js/updatePower.js"
+    "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/js/updatePowerDev.js"
   ],
   "deckBuilding": {
     "mainFilters": ["Elements", "Species", "Level"],
