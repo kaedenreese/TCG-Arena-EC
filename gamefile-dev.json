@@ -21,7 +21,9 @@
   "gameplay": {
     "Constructed": {
       "draggableTokens": [
-        {"id": "Disarmed", "name": "Disarmed", "image": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/disabled.png"}
+        {"id": "Disarmed", "name": "Disarmed", "image": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/disarmed.png"},
+        {"id": "Neutralized", "name": "Neutralized", "image": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/neutralized.png"},
+        {"id": "Active", "name": "Active", "image": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/active.png"}
       ],
       "mulligan": { 
         "triggeredByButton": false,
