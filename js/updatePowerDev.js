@@ -11,6 +11,12 @@ async function updatePower() {
     for(let i = 0; i < sectionCards.length; i++) {
         const card = sectionCards[i];
         console.log(card);
+        const tokens = card['draggableTokens'];
+        if(tokens != undefined && tokens != null) {
+            if(tokens.find(token => token.id === "Neutralized") != undefined) {
+                continue;
+            }
+        }
         const power = card.cardData.Power;
         totalPower += power;
         const counters = card.counters;
