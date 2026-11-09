@@ -7,8 +7,9 @@
     "screenshotUrls": [
         "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/images/main_image.webp"
     ],
-    "descriptionUrl": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/readme.md",
+    "descriptionUrl": "https://raw.githubusercontent.com/kaedenreese/TCG-Arena-EC/refs/heads/main/README.md",
     "updates": [
+        "1.3.0 Added draggable tokens for Disarmed, Neutralized, and Active",
         "1.2.0 Added frontline power counter and changed layout",
         "1.1.0 New playmat and Starter Decks",
         "1.0.0 Initial Release for Alpha Evolved Set"
